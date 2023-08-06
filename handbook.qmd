@@ -1,11 +1,15 @@
 ---
 title: "UK Linguistics Graduate Handbook"
-author: "Kevin B. McGowan"
-subtitle: ""
+subtitle: "(draft)"
 date: "`r Sys.Date()`"
 format:
-    pdf: default
-    html: 
+    pdf:
+      toc: true
+      number-sections: true
+    html:
+      toc: true
+      toc-location: right
+      number-sections: true
       self-contained: true
       grid: 
         margin-width: 350px
@@ -13,10 +17,11 @@ execute:
   echo: fenced
 reference-location: margin
 citation-location: margin
-bibliography: skeleton.bib
+bibliography: handbook.bib
+
 ---
 
-# Introduction
+# General Information
 
 This document demonstrates the use of a number of advanced page layout features to produce an attractive and usable document inspired by the Tufte handout style and the use of Tufte's styles in RMarkdown documents [@xie2018]. The Tufte handout style is a style that Edward Tufte uses in his books and handouts. Tufte's style is known for its extensive use of sidenotes, tight integration of graphics with text, and well-set typography. Quarto[^1] supports most of the layout techniques that are used in the Tufte handout style for both HTML and LaTeX/PDF output.
 
