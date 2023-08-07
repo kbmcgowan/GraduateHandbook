@@ -1,11 +1,8 @@
 ---
 title: "UK Linguistics Graduate Handbook"
-subtitle: "(draft)"
+subtitle: "(draft) Summer 2023^[Find the most recent revision of this document on the [UK Linguistics Graduate Programs](https://linguistics.as.uky.edu/ling-grad-program) page]"
 date: "`r Sys.Date()`"
 format:
-    pdf:
-      toc: true
-      number-sections: true
     html:
       toc: true
       toc-location: right
@@ -13,260 +10,343 @@ format:
       self-contained: true
       grid: 
         margin-width: 350px
+    pdf:
+      toc: true
+      number-sections: true
 execute: 
   echo: fenced
 reference-location: margin
 citation-location: margin
 bibliography: handbook.bib
-
+tbl-cap-location: bottom
 ---
+
+```{r echo=FALSE}
+```
 
 # General Information
 
-This document demonstrates the use of a number of advanced page layout features to produce an attractive and usable document inspired by the Tufte handout style and the use of Tufte's styles in RMarkdown documents [@xie2018]. The Tufte handout style is a style that Edward Tufte uses in his books and handouts. Tufte's style is known for its extensive use of sidenotes, tight integration of graphics with text, and well-set typography. Quarto[^1] supports most of the layout techniques that are used in the Tufte handout style for both HTML and LaTeX/PDF output.
+The Department of Linguistics offers graduate programs leading to the degrees of Master of Arts (MA) and Doctor of Philosophy (PhD). Financial support for graduate students is available in the form of Teaching Assistantships, Journal Fellowships, and Research Assistantships; these are awarded on a competitive basis. Full details of your financial support can be found in the offer letter you received when you were admitted to the program. This handbook contains policies regarding graduate study in the Department of Linguistics^[When in doubt, consult with the DGS]. Additional recommendations and guidance for students can be found on the Linguistics graduate program website: [https://linguistics.as.uky.edu/ling-grad-program](https://linguistics.as.uky.edu/ling-grad-program) and in the University-wide Graduate Catalog^[[University of Kentucky Graduate Catalog]()] (formerly the "Graduate Bulletin").
 
-[^1]: To learn more, you can read more about [Quarto](https://www.quarto.org) or visit [Quarto's Github repository](https://www.github.com/quarto-dev/quarto-cli).
+## UK Policies for Graduate Students and Programs
 
-``` yaml
----
-title: "An Example Using the Tufte Style"
-author: "John Smith"
-format:
-  html:
-    grid:
-      margin-width: 350px         # <1>
-  pdf: default
-reference-location: margin        # <2>
-citation-location: margin         # <2>
----
-```
+Students, faculty, and department administrators can obtain information regarding general policies for graduate students and programs from the following sources:
 
-1.  Increases the width of the margin to make more room for sidenotes and margin figures (HTML only).
-2.  Places footnotes and cited sources in the margin. Other layout options (for example placing a figure in the margin) will be set per element in examples below.
+- UK Graduate School Website: [https://gradschool.uky.edu/](https://gradschool.uky.edu/)
+- UK Graduate School Catalog: [http://bulletin.uky.edu/](http://bulletin.uky.edu/)
+- UK Graduate School DGS Policies and Procedures Manual: [https://gradschool.uky.edu/directors-graduate-studies](https://gradschool.uky.edu/directors-graduate-studies)
 
-These layout features are designed with two important goals in mind:
+## Rights, Responsibilites, and Resources
+The Department of Linguistics is dedicated to fostering a healthy, supportive, and inclusive environment for all of its students, staff, and faculty. This section includes references to information and resources students may need during their program.
 
-1.  To produce both PDF and HTML output with similar styles from the same Quarto document;
-2.  To provide simple syntax to write elements of the Tufte style such as side notes and margin figures. If you'd like a figure placed in the margin, just set the option `fig-column: margin` for your code chunk, and we will take care of the details for you[^2].
+Student Rights and Responsibilities are found in the Administrative Regulation (AR) 4:10 The Code of Student Conduct. Students are responsible for learning and following the rules and regulations that govern academic life at the University. Students should be informed regarding their academic and non-academic rights and responsibilities, including the UK Code of Student Conduct. For details, students should consult the Dean of Students website and the Ombud website:
 
-[^2]: You never need to think about `\begin{marginfigure}` or `<span class="marginfigure">`; the LaTeX and HTML code under the hood may be complicated, but you never need to learn or write such code.
+- Rights \& Responsibilities: [https://www.uky.edu/deanofstudents/student-rights-and-responsibilities](https://www.uky.edu/deanofstudents/student-rights-and-responsibilities)
+- UK Office of the Ombudsman: [https://www.uky.edu/ombud/](https://www.uky.edu/ombud/)
+- Food \& Housing Insecurity: [https://www.uky.edu/deanofstudents/needs](https://www.uky.edu/deanofstudents/needs)
+- Institutional Diversity: [https://www.uky.edu/inclusiveexcellence/](https://www.uky.edu/inclusiveexcellence/)
+- Responding to Harassment \& Discrimination:
+[https://www.uky.edu/eeo/discrimination-harassment](https://www.uky.edu/eeo/discrimination-harassment)
+- Resources for Mental Health [https://www.uky.edu/president/mental_health_resources](https://www.uky.edu/president/mental_health_resources)
 
-If you have any feature requests or find bugs in these capabilities, please do not hesitate to file them to <https://github.com/quarto-dev/quarto-cli/issues>.
+## Academic Load
+(from geography)
 
-# Figures
+## Independent Studies
+(from geography)
 
-## Margin Figures
+## Financial Aid and Funding
 
-Images and graphics play an integral role in Tufte's work. To place figures in the margin you can use the **Quarto** chunk option `column: margin`. For example:
+### Parental Leave for Graduate Students
+The UK Graduate School has a parental leave policy for graduate students. Details can be found here: https://gradschool.uky.edu/assistantships#Parental%20Leave
 
-```{r}
-#| label: fig-margin
-#| fig-cap: "MPG vs horsepower, colored by transmission."
-#| column: margin
-#| message: false
-library(ggplot2)
-mtcars2 <- mtcars
-mtcars2$am <- factor(
-  mtcars$am, labels = c('automatic', 'manual')
-)
-ggplot(mtcars2, aes(hp, mpg, color = am)) +
-  geom_point() + geom_smooth() +
-  theme(legend.position = 'bottom')
-```
+### Scholastic Probation
+Students must maintain a minimum GPA specified by the graduate school to avoid being placed on scholastic probation. Students placed on scholastic probation are not eligible for fellowships or tuition
+scholarships and may not sit for doctoral qualifying or final examinations, or master’s final examinations. 
 
-Note the use of the `fig-cap` chunk option to provide a figure caption. You can adjust the proportions of figures using the `fig-width` and `fig-height` chunk options. These are specified in inches, and will be automatically scaled down to fit within the handout margin.
+Further information regarding scholastic probation is available in the UK Graduate Catalog.
 
-## Arbitrary Margin Content
+### Summer Support
 
-You can include anything in the margin by places the class `.column-margin` on the element. See an example on the right about the first fundamental theorem of calculus.
+XXX We need a policy on summer support.
 
-::: column-margin
-We know from *the first fundamental theorem of calculus* that for $x$ in $[a, b]$:
+### Priority for Summer Teaching
+<!-- from math -->
+A limited number of teaching assignments are available in summer sessions 1 and 2. Students interested in such positions will be ranked according to the number of years they have completed in the program. Within each year, priority for course assignments will be made based on a consideration of previous teaching experience, summer courses being offered, and academic record. Exceptions to these rankings might be made in the following cases:
 
-$$\frac{d}{dx}\left( \int_{a}^{x} f(u)\,du\right)=f(x).$$
-:::
+- Students who have not completed their previous teaching duties in a satisfactory manner meeting the basic expectations for teaching assistants.
+- Students who have not met the minimum SACS requirements for teaching assistants will not be eligible for primary instructor positions.
+- Students who have other summer support will not be considered for summer teaching.
 
-## Full Width Figures
+The DGS maintains a ranked list of students who have requested summer teaching and assigns summer teaching as positions become available. The number of positions is dependent on enrollment and course offerings.
 
-You can arrange for figures to span across the entire page by using the chunk option `fig-column: page-right`.
+## Possibilities for Research, Conference, and Institute Funding
 
-```{r}
-#| label: fig-fullwidth
-#| fig-cap: "A full width figure."
-#| fig-width: 11
-#| fig-height: 3
-#| fig-column: page-right
-#| warning: false
-ggplot(diamonds, aes(carat, price)) + geom_smooth() +
-  facet_grid(~ cut)
-```
+Given the yearly variation in both the amount of available funding and student requests for the funds, funding is competitive and not guaranteed.
 
-Other chunk options related to figures can still be used, such as `fig-width`, `fig-cap`, and so on. For full width figures, usually `fig-width` is large and `fig-height` is small. In the above example, the plot size is $11 \times 3$.
+### Research Funding
 
-## Arbitrary Full Width Content
+XXX There should be some text here about research funding available to graduate students.
 
-Any content can span to the full width of the page, simply place the element in a `div` and add the class `column-page-right`. For example, the following code will display its contents as full width.
+### Conference Supplemental Funding
 
-``` md
-::: {.fullwidth}
-Any _full width_ content here.
-:::
-```
+The Department works to provide graduate students with a supplement to attend conferences outside of Lexington. This supplement is designed to help (but not fully) cover costs related to travel, lodging and registration. Given the yearly variation in both the funds amounts and student requests for the funds, funding to all students is not guaranteed. This funding works under the following rules:
 
-Below is an example:
+- To be eligible for funding a student must be presenting at the conference (paper session, panel session, poster)
+- Each student is eligible to receive one supplement per academic year
+- Funding awards are competitive and funds are limited
+- Conference supplement funding is not guaranteed to any individual student
 
-::: column-page-right
-*R is free software and comes with ABSOLUTELY NO WARRANTY.* You are welcome to redistribute it under the terms of the GNU General Public License versions 2 or 3. For more information about these matters see <https://www.gnu.org/licenses/>.
-:::
+### Institute (and summer program) Funding
 
-## Main Column Figures
+XXX text about how Institute funding works goes here.
 
-Besides margin and full width figures, you can of course also include figures constrained to the main column. This is the default type of figures in the LaTeX/HTML output.
+# MA Program
 
-```{r}
-#| label: fig-main
-#| fig-cap: "A figure in the main column."
-ggplot(diamonds, aes(cut, price)) + geom_boxplot()
-```
+## Introduction
 
-## Margin Captions
+The Master’s in Linguistics offers training in theoretical frameworks for approaching descriptive and sociolinguistic data with related emphases on historical, corpus, and computational linguistics. In addition to providing preparation for doctoral studies in linguistics, the MA program prepares students for careers in industry, consultancies in law and medicine, jobs in government agencies, etc.
 
-When you include a figure constrained to the main column, you can choose to place the figure's caption in the margin by using the `cap-location` chunk option. For example:
+The purpose of the MA degree is to provide students with the knowledge, skills, and experience necessary to conduct independent research. In addition, the MA program is designed to enable students, particularly University Scholars Program (USP) students, to pursue a substantive area of scholarship at a depth not possible at the undergraduate level alone. The MA degree will usually be completed in two academic years by full time students.
 
-```{r}
-#| label: fig-main-margin-cap
-#| fig-cap: "A figure with a longer caption. The figure appears in the main column, but the caption is placed in the margin. Captions can even contain elements like a citation such as @xie2018."
-#| cap-location: margin
-ggplot(diamonds, aes(cut, price)) + geom_boxplot()
-```
+The MA degree can also be awarded to students enrolled in the doctoral program who have completed the requirements for candidacy but who do not wish to, or are not invited to, continue in the doctoral program.
 
-# Sidenotes
+## Advisor and Thesis Committee
 
-One of the most prominent and distinctive features of this style is the extensive use of sidenotes. There is a wide margin to provide ample room for sidenotes and small figures. Any use of a footnote will automatically be converted to a sidenote.
+MA students are strongly encouraged to identify a potential advisor during their first semester. Once a student and advisor have agreed to work with each other (see section 5.4), this information should be communicated to the DGS in written or email form. A three-member Thesis Committee will generally be convened no later than Fall of the second year for the purpose of guiding the student by reviewing the program of study and guiding the student in the development and completion of an independent research paper topic. In every case, at least two members of the Committee should be Linguistics faculty members. At least one member of the Advisory Committee must hold Full Graduate Faculty status (generally limited to associate and full professors).
 
-[This is a span that has the class `column-margin` which places it in the margin without the sidenote mark.]{.column-margin} If you'd like to place ancillary information in the margin without the sidenote mark (the superscript number), you can use apply the `column-margin` class to the element.
+## Coursework Requirements
 
-# References
+Earning an MA in Linguistics at the University of Kentucky requires the successful completion of 30 total hours of coursework including the following core courses:
 
-References can be displayed as margin notes for HTML output. For example, we can cite R here [@R-base].
+- LIN 601 - Qualitative Research Methods in Linguistics
+- LIN 701 - Research Seminar in Linguistics
+- LIN 512 - Syntax (or a relevant 600-level course)
+- LIN 515 - Phonology (or a relevant 600-level course)
+- LIN 500 or LIN 505 - Phonetics or Morphology (or a relevant 600-level course)
 
-::: {.callout-note appearance="simple"}
-This feature depends upon `link-citations` to locate and place references in the margin. This is enabled by default, but if you disable `link-citations` then references in the HTML output will be placed at the end of the output document as they normally are.
-:::
+At least 20 credit hours (7 courses) taken as regular courses (rather than as independent study or research courses).
 
-# Tables
+At least 15 credit hours (5 courses) must be taken at the 600 or 700 level (excluding thesis, practicum, or internship credit)
 
-You can use the `kable()` function from the **knitr** package to format tables that integrate well with the rest of the Tufte handout style. The table captions are placed in the margin like figures in the HTML output.
+Only 9 credit hours are transferable (excluding independent work, research, workshops, practica, or thesis work); student must have had graduate status at the time the courses were taken.
 
-```{r}
-#| tbl-cap-location: margin
-knitr::kable(
-  mtcars[1:6, 1:6], caption = 'A subset of mtcars.'
-)
-```
+## Concurrent Degrees
 
-# Responsiveness
+MA students may choose to pursue a concurrent degree with another program in the Department of Modern and Classical Languages, Literatures, and Cultures (MCLLC).
 
-The HTML page layout is responsive- as the page width shrinks, elements will automatically adjust their position. Elements that appear in the margins will move inline with the content and elements that span the body and margin will automatically span only the body.
+- M.A. in Classics
+- M.A. in French and Francophone Studies
+- M.A. in German
+- M.A. in Teaching English as a Second Language
+- M.A. in Teaching World Languages
+- Graduate Certificate in Latin Studies
+- Graduate Certificate in Teaching English as a Second Language
 
-# More Examples
+Nine credit hours may be shared between the two degrees, with the approval of both Directors of Graduate Studies. Visit the Graduate School web page to find the Concurrent Master Degrees form^[[Concurrent Graduate Degree Form](https://gradschool.uky.edu/sites/gradschool.uky.edu/files/Forms/StudentForms/Concurrent_Masters_Doctoral_9-18-20.pdf)]
 
-The rest of this document consists of a few test cases to make sure everything still works well in slightly more complicated scenarios. First we generate two plots in one figure environment with the chunk option `fig-show: hold`:
+## Completing the MA Thesis Requirement
 
-```{r}
-#| label: fig-two-together
-#| fig-cap: "Two plots in one figure environment."
-#| fig-show: hold
-#| warning: false
-#| cap-location: margin
-p <- ggplot(mtcars2, aes(hp, mpg, color = am)) +
-  geom_point()
-p
-p + geom_smooth()
-```
+XXX text still needed about completing the MA thesis.
 
-Then two plots in separate figure environments (the code is identical to the previous code chunk, but the chunk option is the default `fig-show: asis` now):
+## Applying to Doctoral Programs
 
-```{r fig-two-separate, ref.label='fig-two-together', fig.cap=sprintf("Two plots in separate figure environments (the %s plot).", c("first", "second")), message=FALSE}
-#| cap-location: margin
-```
+Students in the MA program considering applying to Ph.D. programs in order to continue their graduate education are strongly encouraged to seek their advisor's advice early in the fall semester of the second year. Faculty advisors can help to identify appropriate Ph.D. programs, whether at the University of Kentucky or elsewhere, and they generally provide the primary reference letter for student applications. To that end, timely work on a thesis proposal, and the thesis itself is *critical* in order to adequately and accurately demonstrate the student’s potential for academic success at the doctoral level. Successful MA work at the University of Kentucky is not a guarantee of admission to and/or funding in the Ph.D. program as the evaluation processes for MA and Ph.D. applicants carry different evaluative criteria. University of Kentucky MA students applying to the University of Kentucky Ph.D. program are considered for admission and funding as part of the general pool of applicants in any given year.
 
-You may have noticed that the two figures have different captions, and that is because we used a character vector of length 2 for the chunk option `fig.cap` (something like `fig.cap = c('first plot', 'second plot')`).
+# Ph.D. Program
+## Introduction
+Introductory text about Ph.D. program.
+## Advisor and Thesis Committee
+## Coursework Requirements
+## Concurrent Degrees
+## Qualifying Examination
+## Advancing to Candidacy
+## Completing the Doctoral Thesis Requirements
 
-::: {.callout-tip}
-## Using R within Chunk Options
-If you wish to use raw R expressions as part of the chunk options (like above), then you need to define those in the `tag=value` format within the curly brackets `{r label, tag=value}` instead of the `tag: value` YAML syntax on a new line starting with the hashpipe `#|`. The former approach is documented on [knitr's website](https://yihui.org/knitr/options/) while the latter is explained in [Quarto's documentation](https://quarto.org/docs/reference/cells/cells-knitr.html).
-:::
+# Departmental Citizenship, Review, and Academic Progress
 
-Next we show multiple plots in margin figures. Similarly, two plots in the same figure environment in the margin:
+# Advising
+## Introduction: Your academic advisor
+Who is your “advisor”?
 
-```{r}
-#| label: fig-margin-together
-#| fig-cap: "Two plots in one figure environment in the margin."
-#| fig-width: 3.5
-#| fig-height: 2
-#| fig-show: hold
-#| column: margin
-#| warning: false
-#| echo: false
-p
-p + geom_smooth(method = 'lm')
-```
+Until you form a committee and choose an advisor--something that typically happens in your second year--the Director of Graduate Studies (DGS) serves as your academic advisor.
 
-Then two plots from the same code chunk placed in different figure environments:
+After you have recruited a thesis/dissertation advising committee, the chair of your committee officially becomes your academic advisor.
 
-```{r}
-#| echo: false
-knitr::kable(head(iris[,c(1,2,3,4)], 13))
-```
+In practice, this means that for the initial semesters of the program, students typically work mainly with the DGS. The DGS helps ensure that you are satisfying degree requirements and helps you navigate coursework, assistantships, identifying funding sources, etc.
 
-```{r}
-#| label: fig-margin-separate-a
-#| fig-cap: "Two plots in separate figure environments in the margin"
-#| fig-width: 3.5
-#| fig-height: 2
-#| column: margin
-#| warning: false
-#| echo: false
-p
-p + geom_smooth(method = 'lm')
-```
+As you form relationships with faculty members who are likely to serve on your dissertation committee, there is a natural transition that takes place, with more guidance coming from those faculty members. However, the DGS always remains available as a resource for students at any stage of the program.
 
-```{r}
-#| echo: false
-knitr::kable(head(iris[,c(1,2,3,4)], 11))
-```
+Be aware that most faculty appointments, as well as administrative appointments like DGS, are nine-month appointments. This means that, technically, the DGS and your dissertation advisor, are not `on the clock' over the summer and may be less available.
 
-We blended some tables in the above code chunk only as *placeholders* to make sure there is enough vertical space among the margin figures, otherwise they will be stacked tightly together. For a practical document, you should not insert too many margin figures consecutively and make the margin crowded.
+Despite this, faculty members, including the DGS, are usually able and willing to stay in contact electronically over the summer, even if it may sometimes take longer to hear back. It is always ok to send a follow-up email. If your advisor is going to be fully out of contact for an extended period—even over the summer--it is reasonable to expect that they let you know ahead of time.
 
-You do not have to assign captions to figures. We show three figures with no captions below in the margin, in the main column, and in full width, respectively.
+The requirements for your degree program, and procedures for satisfying those requirements, are outlined in two documents: this document and the Graduate School’s Graduate Catelog^[[Current Graduate Catalog](http://bulletin.uky.edu/index.php)].
 
-```{r}
-#| fig-width: 3.5
-#| fig-height: 2
-#| column: margin
-# a boxplot of weight vs transmission; this figure
-# will be placed in the margin
-ggplot(mtcars2, aes(am, wt)) + geom_boxplot() +
-  coord_flip()
-```
+You should take time to read over both of these documents.
 
-```{r}
-#| warning: false
-# a figure in the main column
-p <- ggplot(mtcars, aes(wt, hp)) + geom_point()
-p
-```
+This UK Linguistics Graduate Handbook describes the requirements of the Linguistic Department’s MA \& PhD programs specifically--including coursework requirements, the definition of “adequate progress,” and other program requirements such as the MA Thesis or the PhD Qualifying Exam, Dissertation Proposal, and Final Defense.
 
-```{r}
-#| fig-width: 11
-#| fig-height: 4
-#| column: page-right
-#| warning: false
-# a fullwidth figure
-p + geom_smooth(method = 'lm') + facet_grid(~ gear)
-```
+The Graduate Catalog describes Graduate School-wide requirements, including those that overlap with topics covered here, but also extending to policies such as “add/drop” requirements for courses, residency requirements, moonlighting regulations, time-to-degree limits, and so on.
 
-# Some Notes on Page Layout
+## Advising expectations during coursework
+### What the DGS can expect from the student
+Graduate students in the coursework phase of their program should:
 
-To see the Quarto markdown source of this example document, you may follow [this link to Github](https://raw.githubusercontent.com/quarto-dev/quarto-gallery/main/page-layout/tufte.qmd).
+- Maintain familiarity with both the Grad Regs and the Bulletin.
+- Maintain a courteous, professional relationship with Linguistics Department Manager, Katia Davis, who makes everything work around here.
+- Research answers to administrative questions in the Graduate Handbook and Catalog first, before reaching out for clarification.
+- Think strategically about their choice of classes, so as to satisfy the course requirements efficiently.
+- Take a range of classes from a wide range of faculty, so as to maximize options and flexibility when putting together a committee.
+- Meet with the DGS on a regular basis (ideally, at least once per semester) to discuss course selections, program requirements, and concerns.
+- Reach out to the DGS as they approach the end of coursework, to discuss the transition to candidacy.
+- Be familiar with the Graduate School “Student Forms” page^[[gradschool.uky.edu/studentforms](https://gradschool.uky.edu/studentforms)].
+
+### What the student can expect from their DGS
+
+The DGS, in their capacity as academic advisor to early-program graduate students, should:
+
+- Meet with all incoming first-year graduate students before the start of the Fall term to go over program requirements for the program.
+- Ensure that all incoming graduate students have copies of both the Graduate Handbook and the Graduate Catalog.
+- Be available to meet with graduate students during the school year to discuss coursework or other program requirements.
+- Reach out to students as they near the end of coursework, to ensure that the transition to candidacy goes smoothly.
+- Respond in a clear and timely way to requests for clarification about regulations or requirements. As a baseline, one week is a reasonable expectation for a reply to an email.
+- XXX will we be doing an annual review meeting and, if so, DGS will provide an annual progress letter to each student? XXX
+
+## Advising expectations during candidacy (or MA thesis work)
+
+### What the advisor can expect from the student
+
+Graduate students in the thesis work and candidacy stages of the program should:
+
+- Discuss advising styles and expectations with their dissertation advisor when they first begin working together.
+- Maintain regular contact with their advisor, whether things are going well or poorly.
+- Keep the advisor apprised of personal or professional developments that may affect the project or time to degree.
+- Consult with the advisor before submitting work to conferences, workshops, or publication to receive mentorship and guidance.
+- Follow up on written work that the advisee has submitted but not received feedback on. The advisee should check in with the advisor if they have not received feedback on written work within three to four weeks. (Or less, if there is a deadline looming.) Sending a polite reminder in these situations is not pushy, rude, or disrespectful. It’s completely polite and welcome.
+- Request a meeting with the advisor to discuss any issues or concerns with the advising relationship.
+- Maintain regular contact with other members of the committee and the DGS, keeping them up to date on the status of the project. At a bare minimum, updates should be provided to other committee members once per semester, even if the advisee is not working closely with those members.
+
+### What the student can expect from the advisor
+
+A student's advisor should:
+
+- Discuss advising styles and expectations with advisee when they first begin working together.
+- Work with the advisee to set clear expectations regarding the nature and scope of the dissertation topic.
+- Be prepared to meet on a regular basis, even when there is not new writing to review.
+- Set clear and reasonable expectations regarding the pace of research and writing: e.g. research design timelines, how much will be written, how often new work will be submitted for feedback, and the overall project timeline.
+- Respond to emails in a timely manner. As a baseline, one week is a reasonable expectation for a reply to an email.
+- Provide feedback on written work within a reasonable timeframe. As a baseline--and when there is not a specific deadline looming--three to four weeks is a reasonable expectation for feedback on written work.
+- Encourage the advisee to stay in regular contact with their other committee members.
+- Have at least a basic understanding of the program requirements described in the Graduate Handbook, so that deadlines and decisions do not sneak up on either advisee or advisor.
+- Keep the advisee apprised of personal or professional developments that may affect the advisor’s ability to provide guidance on the project.
+- Reach out to the student in a timely manner with concerns about the project.
+- Provide mentorship on academic and professional topics--conference and journal submissions, networking, the academic job market, etc. If the advisor is not inclined to provide professionalization mentorship, they should work with the student to find another faculty member who is.
+-- Be prepared to address issues in the advisor/advisee relationship with honesty, empathy, and candor.
+-- Be clear, candid, and explicit in their communication with the advisee. The advisor should not assume that the advisee is picking up on unspoken social or professional cues, as degrees of familiarity with unwritten academic convention and etiquette vary widely, and not always in obvious ways.
+
+## Choosing an advisor
+### What to ask a potential advisor
+
+When you meet with a faculty member to discuss their serving as your advisor, you should be sure that their advising style is compatible with your needs.
+
+Here are some questions you might consider asking a potential advisor. There is a range of acceptable answers to all of these questions. But understanding how your advisor would answer these questions can help both of you determine whether it’s a good fit.
+
+- How often do you typically meet with your advisees? Do you like to set up regular meetings, or make appointments on an ad hoc basis?
+- How quickly are you typically able to get written work back to your advisees with feedback?
+- Do you expect your advisees to work closely with other members of their committee, or do your advisees tend to work mainly with you?
+- Have you had advisees whose linguistic views ended up differing in major ways from your own? How would you perceive a situation like that: Completely normal, and even a good thing? Acceptable, but less than optimal? Or perhaps as a sign that the advising relationship was not the right fit after all?
+- If you haven’t heard from an advisee for a while, do you tend to reach out to them? Or do you expect them to take the initiative in most situations?
+- How familiar are you with the ins and outs of the Linguistics Graduate Handbook and the Graduate Catalog? Do you typically keep your advisees apprised of upcoming milestones, requirements, and deadlines, or do you expect them to understand and monitor those things on their own?
+- Understanding that it depends on the student/project, would you describe your typical style of advising as fitting into any of the categories in the Advising Chart (section 5.4.2)?
+- Is there anything else you think I should be aware of when it comes to the possibility of working with you as an advisor?
+
+### Different kinds of advising relationships
+
+The examples in the following table, adapted from @davis2005, are borrowed from the UK Philosophy \& Mathematics graduate handbooks.
+
+| Style                   | Advisor Role and Behavior                   | Student Role and Behavior      |
+|-------------------------|---------------------------------------------|--------------------------------|
+| Strong master/apprentice style | Advisor is research director. Advisor has a well specified domain of expertise and set of problems within it. | Student is an apprentice working for the advisor. Student works on advisor’s problems. |
+| Collegial master/apprentice style | Advisor is expert who limits advising to problems that are within scope of his or her research skill set, but will work on student’s problem. | Student develops a problem within advisor’s domain and skills, and works under the advisor to develop the research plan and procedures. |
+| Collegial development style | Advisor is senior colleague who will respond to student research problem and extend his or her advising domain to include new problems and new skills. | Student takes initiative to introduce new problem that requires new skill set and works as a junior colleague with advisor in joint development of new domain. |
+| Guidance and suggestion style | Advisor is a senior colleague who gives good general guidance over a wide range of problems and methods but does not have personal skill in all of them. | Student is an independent, junior colleague who takes initiative for presenting problems and research plans for discussion and guidance. Student develops required skills. |
+| Passive hands-off style | Advisor has quality control role and responds only to requests or documents, and performs only general quality control review. | Student is an independent researcher who takes initiative for developing problem, developing skills, and presenting research plans for general review and approval. |
+
+: Five Advising Relationship Styles {#tbl-davis .striped .borderless .hover tbl-colwidths="[24,38,38]"}
+
+
+## Procedures for resolving issues
+
+Expectation management and clear communication are the most important preventative measures for avoiding advisor/advisee relationship issues [@whitehouse2020]. But issues do arise and they are not always resolvable purely between advisor and advisee. In those cases, the following steps can be followed.
+
+The order in which these steps are presented is, in most cases, the best order to follow. However, you can always skip a particular step if you do not feel comfortable discussing the issue with that party.
+
+1. Request a meeting with other members of your dissertation committee. Communicate the problem to them, and ask for information and advice on an informal basis.
+2. If that doesn’t help (enough), or if you are uncomfortable going to the other members of your dissertation committee, request a meeting with the DGS. They can give advice and clarify relevant regulations from the Handbook or the Graduate Catalog The DGS can also act as your advocate—reaching out on your behalf to other faculty members, the Chair, the Dean, or any other relevant parties.
+3. If that doesn’t help (enough), or if you are uncomfortable going to the DGS, request a meeting with the Department Chair. Describe the issue to the Chair, and tell them what other steps have been attempted so far. The Chair is likely to be able to help, and may have institutional information or authority that goes beyond what the DGS can offer.
+4. If that doesn’t help (enough), or if you are uncomfortable going to the Chair, request a meeting with the College of A&S Associate Dean of Graduate Studies. Currently, the Dean of Graduate Studies is Professor Mark Meier. You can check the “Dean's Office” page at the College of A&S website^[[https://www.as.uky.edu/deans-office](https://www.as.uky.edu/deans-office)] for information on how to schedule an appointment. Scroll down until you find the Associate Dean of Graduate Studies.
+5. If none of these other steps help (enough), or if your issue precludes going through the usual procedures, contact UK Academic Ombud Services^[[https://ombud.uky.edu](https://ombud.uky.edu)]. As stated on their website, “At the University of Kentucky, Academic Ombud Services is responsible for resolving academic related problems and conflicts between students and faculty for which established procedures have not yielded a satisfactory solution or for which no established procedure exists.”
+
+# Employment
+
+## Alternatives to Academic Careers
+
+## Academic Employment
+
+# Program Checklists
+
+## MA Checklist
+
+- [ ] Download and read UK Linguistics Graduate Handbook
+- [ ] LIN 601
+- [ ] LIN 701
+- [ ] LIN 500 or 600-level phonetics course
+- [ ] LIN 512 or 600-level syntax course
+- [ ] LIN 515 or 600-level phonology course
+- [ ] 30 total hours of coursework (6 hours should be in LIN 748 Masters Thesis Research)
+- [ ] Advisor engaged by end of 2^nd^ semester and registered with the DGS
+- [ ] Committee formed (by end of 3^rd^ semester)
+- [ ] Prepare thesis: under the guidance of your thesis chair and committee, conduct research and prepare MA thesis
+- [ ] Thesis defense, preparation, and submission
+  - [ ] File application for Degree Form ^[[myUK.uky.edu](https://myuk.uky.edu) -> Student Services -> myRecords -> Apply for Degree] by the published deadline of the semester in which the student plans to graduate
+  - [ ] Thesis submitted to committee two weeks prior to final oral examination.
+  - [ ] Oral examination scheduled with committee members and room reserved
+  - [ ] Final Examination form submitted to Graduate School two weeks prior final oral examination. ^[Note: oral exam can not be scheduled with outstanding Incompletes (“I” grades) on your transcript.]
+  - [ ] Thesis to be submitted electronically to the Graduate School within 60 days of successful examination along with a Thesis (ETD) Approval Form
+
+## Ph.D. Checklist
+
+- [ ] Download and Read UK Linguistics Graduate Handbook 
+- [ ] LIN 601
+- [ ] LIN 611
+- [ ] Phonetics/Phonology (at least 1 of LIN 500, LIN 515, LIN 600, or LIN 615)
+- [ ] Syntax/Morphology (at least 1 of LIN 512, LIN 505, LIN 615, or LIN 605)
+- [ ] Historical Linguistics (at least 1 of LIN 519, LIN 529, LIN 619, LIN 629, or an approved LIN 517 or LIN 527)
+- [ ] Sociolinguistics (at least 1 of LIN 506, LIN 507, LIN 508, LIN 606, LIN 619, or an approved LIN 517 or LIN 527)
+- [ ] Corpus/Computational (at least 1 of LIN 510, LIN 511, LIN 610, or an approved LIN 517)
+- [ ] Expertise requirement (3 courses, 9 hours at the 600 level or above in area of concentration)
+- [ ] Advisor engaged by end of 2^nd^ semester and registered with the DGS
+- [ ] XXX Demonstrated knowledge of 2 human languages other than English XXX
+- [ ] Committee formed (3^rd^ semester) and The Formation of Doctoral Advisory Committee Form is submitted to the Graduate School^[[gradschool.uky.edu/studentforms](https://gradschool.uky.edu/studentforms)]
+- [ ] Dissertation Proposal scheduled with committee and room reserved with at least two weeks prior notice
+- [ ] Dissertation Proposal defended
+- [ ] Complete qualifying exam (Fall of 3^rd^ year)
+  - [ ] Qualifying Examination form filed with the Graduate School at least two weeks prior to the oral defense of qualifying exam.
+  - [ ] Oral defense of qualifying exam. Passing means that the student is now a PhD candidate (called ABD, All But Dissertation)
+- [ ] Conduct research and write dissertation
+  - [ ] Prepare and submit proposals for external research funding (generally after the qualifying exam but prior is also possible)
+  - [ ] Attend weekly advising meetings with your advisor (or DGS, as appropriate)
+  - [ ] Maintain an active channel of communication with each of your committee members
+  - [ ] Submit any necessary Institutional Review Board protocol(s) for your thesis ^[[www.research.uky.edu/office-research-integrity/e-irb](https://www.research.uky.edu/office-research-integrity/e-irb)]
+- [ ] Dissertation defense, preparation, and submission
+  - [ ] The Notification of Intent to Schedule a Final Doctoral Examination must be filed by the deadline for the semester in which you intend to graduate ^[see Graduate School Key Dates [gradschool.uky.edu/key-dates](https://gradschool.uky.edu/key-dates) page.]
+  - [ ] The Application for Degree Form must be filed^[([myUK.uky.edu](https://myuk.uky.edu) -> Student Services -> myRecords -> Apply for Degree)] by the published deadline of the semester in which the student plans to graduate ^[[registrar.uky.edu/academic-calendars/university](https://registrar.uky.edu/academic-calendars/university)]
+  - [ ] Thesis defense (Final Doctoral Examination) must be scheduled with advisor, committee, and identified external Member (Graduate School representative)
+  - [ ] The Request for Final Doctoral Examination form must be filed at least two weeks prior to the Final Exam
+  - [ ] Within 60 days of oral defense, final copy of the dissertation must be filed electronically with the Graduate School along with the [ETD Approval Form](https://gradschool.uky.edu/electronic-thesis-defense)^[[gradschool.uky.edu/electronic-thesis-defense](https://gradschool.uky.edu/electronic-thesis-defense)] which needs to be signed by the student, their advisor, and the DGS.
+
+
+# Note on formatting
+
+This document's formatting is inspired by the Tufte handout style and the use of Tufte's styles in RMarkdown documents [@xie2018]. Tufte's style is known for its extensive use of sidenotes, tight integration of graphics with text, and well-set typography.
