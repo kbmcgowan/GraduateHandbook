@@ -161,6 +161,17 @@ Introductory text about Ph.D. program.
 ## Concurrent Degrees
 ## Qualifying Examination
 ## Advancing to Candidacy
+## Dissertation Prospectus
+<!-- from umich -->
+## Dissertation Committee
+<!-- from umich -->
+## Dissertation Defense
+<!-- from umich -->
+## Time to Degree
+<!-- from umich -->
+## Timeline
+<!-- from umich -->
+
 ## Completing the Doctoral Thesis Requirements
 
 # Departmental Citizenship, Review, and Academic Progress
@@ -287,6 +298,22 @@ The order in which these steps are presented is, in most cases, the best order t
 3. If that doesn’t help (enough), or if you are uncomfortable going to the DGS, request a meeting with the Department Chair. Describe the issue to the Chair, and tell them what other steps have been attempted so far. The Chair is likely to be able to help, and may have institutional information or authority that goes beyond what the DGS can offer.
 4. If that doesn’t help (enough), or if you are uncomfortable going to the Chair, request a meeting with the College of A&S Associate Dean of Graduate Studies. Currently, the Dean of Graduate Studies is Professor Mark Meier. You can check the “Dean's Office” page at the College of A&S website^[[https://www.as.uky.edu/deans-office](https://www.as.uky.edu/deans-office)] for information on how to schedule an appointment. Scroll down until you find the Associate Dean of Graduate Studies.
 5. If none of these other steps help (enough), or if your issue precludes going through the usual procedures, contact UK Academic Ombud Services^[[https://ombud.uky.edu](https://ombud.uky.edu)]. As stated on their website, “At the University of Kentucky, Academic Ombud Services is responsible for resolving academic related problems and conflicts between students and faculty for which established procedures have not yielded a satisfactory solution or for which no established procedure exists.”
+
+# Co-Authoring Policy
+<!-- from umich -->
+Science is a team sport. But different disciplines have differing expectations about co-authorship, especially when it involves faculty and graduate students. There can even be differences within a discipline; in Linguistics, for example, graduate student-faculty co-authorship is more common on the Social Science flank than on the Humanities flank. Junior faculty who are (appropriately) concerned about how much a faculty-student co-authored paper will “count” in the tenure review process should discuss with the Department Chair co-authorship issues as they pertain to their specific area(s) of interest.
+
+That said, there are clear circumstances when faculty-graduate student co-authorship should be encouraged. Such collaborations can clearly be helpful to students, as they will more easily achieve a publishable product, will “learn the ropes” of what article submissions involve, and will strengthen their CVs. Such collaborations have the potential for benefiting the faculty member as well, especially when the student’s specialization does not fully overlap with that of the faculty member, so that each is contributing his/her own expertise. In experimental work, the benefits of collaboration for the faculty member are even clearer, as the tasks of designing and conducting the experiment(s) can be shared.
+
+Individual faculty members and advisees will of course make their own judgments as to when co-authorship is and is not appropriate. However, the American Psychological Association Manual [@apa1994] contains some guidelines that seem applicable to the Department:
+
+> Authorship is reserved for persons who receive primary credit and hold primary responsibility for a published work. Authorship encompasses, therefore, not only those who do the actual writing but also those who have made substantial scientific contributions to a study. Substantial professional contributions may include formulating the problem or hypothesis, structuring the experimental design, organizing and conducting the statistical analysis, interpreting the results, or writing a major portion of the paper (1994:294).
+
+Note that faculty co-authorship would require something more substantial than providing some suggested readings, offering some methodological hints, and/or simply editing and commenting on a draft of the paper.
+
+The order of the authors in a proposed publication is also an issue that needs to be discussed and agreed upon at an early stage in a project. One possible guideline is that in student-initiated projects, the student’s name should generally come first--as is likely in a seminar paper. The situation in faculty-initiated projects, as when the student works as a graduate student research assistant, will more likely depend on the quantity and quality of the individual contributions. The APA provides a `scorecard' that might serve as a draft for equitable negotiation and transparent determination of authorship:
+
+[https://www.apa.org/science/leadership/students/authorship-determination-scorecard.pdf](https://www.apa.org/science/leadership/students/authorship-determination-scorecard.pdf)
 
 # Employment
 
