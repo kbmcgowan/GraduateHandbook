@@ -2,6 +2,9 @@
 title: "UK Linguistics Graduate Handbook"
 subtitle: "(draft) Summer 2023^[Find the most recent revision of this document on the [UK Linguistics Graduate Programs](https://linguistics.as.uky.edu/ling-grad-program) page]"
 date: "`r Sys.Date()`"
+header-includes:
+   -  \usepackage{colortbl} 
+   -  \usepackage{xcolor} 
 format:
     html:
       toc: true
@@ -18,7 +21,7 @@ execute:
 reference-location: margin
 citation-location: margin
 bibliography: handbook.bib
-tbl-cap-location: bottom
+tbl-cap-location: margin
 ---
 
 ```{r echo=FALSE}
@@ -50,12 +53,12 @@ Student Rights and Responsibilities are found in the Administrative Regulation (
 - Resources for Mental Health [https://www.uky.edu/president/mental_health_resources](https://www.uky.edu/president/mental_health_resources)
 
 ## Academic Load
-(from geography)
+
+A graduate student enrolled in 9 credit hours or more in a semester is considered to be full time (see the Graduate Catalog for more information). 
+Typically, a student who is a Teaching Assistant (TA) will take 9-10 credit hours per semester. 
 
 ## Independent Studies
-(from geography)
-
-## Financial Aid and Funding
+While it is sometimes appropriate to take an independent study course, we ask students to first look for graduate seminars for two reasons. First, seminars with low enrollment may be cancelled. Second, graduate education is about learning beyond the very narrow confines of a thesis or dissertation. Your ability to teach across broad topics and situate your work in the discipline can be crucial in academic job hunting and career success. Your ability to engage deeply and successfully with topics that did not initially interest you can be crucial in a non-academic career.
 
 ### Parental Leave for Graduate Students
 The UK Graduate School has a parental leave policy for graduate students. Details can be found here: https://gradschool.uky.edu/assistantships#Parental%20Leave
@@ -68,7 +71,7 @@ Further information regarding scholastic probation is available in the UK Gradua
 
 ### Summer Support
 
-XXX We need a policy on summer support.
+XXX We need to stipulate an actual policy on summer support that includes block funding and teaching opportunities.
 
 ### Priority for Summer Teaching
 <!-- from math -->
@@ -86,20 +89,25 @@ Given the yearly variation in both the amount of available funding and student r
 
 ### Research Funding
 
-XXX There should be some text here about research funding available to graduate students.
+XXX There should be some text here about research funding available to graduate students. Writing this depends on what we do about summer funding since they pull from the same little pool of money.
 
 ### Conference Supplemental Funding
 
-The Department works to provide graduate students with a supplement to attend conferences outside of Lexington. This supplement is designed to help (but not fully) cover costs related to travel, lodging and registration. Given the yearly variation in both the funds amounts and student requests for the funds, funding to all students is not guaranteed. This funding works under the following rules:
+The Department works to provide graduate students with a supplement to attend conferences outside of Lexington. This supplement is designed to help (but usually not fully) cover costs related to travel, lodging and registration. Given the yearly variation in both the funds amounts and student requests for the funds, funding to all students is not guaranteed. This funding works under the following rules:
 
-- To be eligible for funding a student must be presenting at the conference (paper session, panel session, poster)
+::: {.column-margin}
+![Nour Kayali's 2022 LSA Poster](tiny-nour-poster.png)
+You can find poster and slide template files on the [resources page](https://linguistics.as.uky.edu/linguistics-resources).
+:::
+
+- To be eligible for funding a student must be presenting at the conference (paper session, panel session, poster) 
 - Each student is eligible to receive one supplement per academic year
 - Funding awards are competitive and funds are limited
 - Conference supplement funding is not guaranteed to any individual student
 
 ### Institute (and summer program) Funding
 
-XXX text about how Institute funding works goes here.
+XXX text about how Institute funding works goes here. Probably Rusty has this and I've e-mailed him.
 
 # MA Program
 
@@ -113,9 +121,17 @@ The MA degree can also be awarded to students enrolled in the doctoral program w
 
 ## Advisor and Thesis Committee
 
-MA students are strongly encouraged to identify a potential advisor during their first semester. Once a student and advisor have agreed to work with each other (see section 5.4), this information should be communicated to the DGS in written or email form. A three-member Thesis Committee will generally be convened no later than Fall of the second year for the purpose of guiding the student by reviewing the program of study and guiding the student in the development and completion of an independent research paper topic. In every case, at least two members of the Committee should be Linguistics faculty members. At least one member of the Advisory Committee must hold Full Graduate Faculty status (generally limited to associate and full professors).
+MA students are strongly encouraged to identify a potential advisor during their first semester. Once a student and advisor have agreed to work with each other (see section 6.4), this information should be communicated to the DGS in written or email form. A three-member Thesis Committee will generally be convened no later than Fall of the second year for the purpose of guiding the student by reviewing the program of study and guiding the student in the development and completion of an independent research paper topic. In every case, at least two members of the Committee should be Linguistics faculty members. At least one member of the Advisory Committee must hold Full Graduate Faculty status (generally limited to associate and full professors).
 
 ## Coursework Requirements
+
+```{r}
+#| column: margin
+
+knitr::kable(
+  mtcars[1:3, 1:3]
+)
+```
 
 Earning an MA in Linguistics at the University of Kentucky requires the successful completion of 30 total hours of coursework including the following core courses:
 
@@ -175,6 +191,11 @@ Introductory text about Ph.D. program.
 ## Completing the Doctoral Thesis Requirements
 
 # Departmental Citizenship, Review, and Academic Progress
+
+# Research Ethics and the Institutional Review Board
+Ethics thing
+ORI
+IRB
 
 # Advising
 ## Introduction: Your academic advisor
@@ -269,14 +290,14 @@ Here are some questions you might consider asking a potential advisor. There is 
 - Have you had advisees whose linguistic views ended up differing in major ways from your own? How would you perceive a situation like that: Completely normal, and even a good thing? Acceptable, but less than optimal? Or perhaps as a sign that the advising relationship was not the right fit after all?
 - If you haven’t heard from an advisee for a while, do you tend to reach out to them? Or do you expect them to take the initiative in most situations?
 - How familiar are you with the ins and outs of the Linguistics Graduate Handbook and the Graduate Catalog? Do you typically keep your advisees apprised of upcoming milestones, requirements, and deadlines, or do you expect them to understand and monitor those things on their own?
-- Understanding that it depends on the student/project, would you describe your typical style of advising as fitting into any of the categories in the Advising Chart (section 5.4.2)?
+- Understanding that it depends on the student/project, would you describe your typical style of advising as fitting into any of the categories in the Advising Chart (section 6.4.2)?
 - Is there anything else you think I should be aware of when it comes to the possibility of working with you as an advisor?
 
 ### Different kinds of advising relationships
 
-The examples in the following table, adapted from @davis2005, are borrowed from the UK Philosophy \& Mathematics graduate handbooks.
+The examples in the following table, adapted from @davis2005, are borrowed from the UK Philosophy \& Mathematics graduate handbooks. It is important to remember that every advisor/advisee/project relationship is different and that an advisor who is a hands-on expert on one project may provide more general guidance on another. Perhaps the most useful aspect of having these styles enumerated like this is that it enables everyone involved to approach the advising relationship more consciously and deliberately.
 
-| Style                   | Advisor Role and Behavior                   | Student Role and Behavior      |
+| Style                   | Advisor Persona                   | Student Persona      |
 |-------------------------|---------------------------------------------|--------------------------------|
 | Strong master/apprentice style | Advisor is research director. Advisor has a well specified domain of expertise and set of problems within it. | Student is an apprentice working for the advisor. Student works on advisor’s problems. |
 | Collegial master/apprentice style | Advisor is expert who limits advising to problems that are within scope of his or her research skill set, but will work on student’s problem. | Student develops a problem within advisor’s domain and skills, and works under the advisor to develop the research plan and procedures. |
@@ -299,6 +320,14 @@ The order in which these steps are presented is, in most cases, the best order t
 4. If that doesn’t help (enough), or if you are uncomfortable going to the Chair, request a meeting with the College of A&S Associate Dean of Graduate Studies. Currently, the Dean of Graduate Studies is Professor Mark Meier. You can check the “Dean's Office” page at the College of A&S website^[[https://www.as.uky.edu/deans-office](https://www.as.uky.edu/deans-office)] for information on how to schedule an appointment. Scroll down until you find the Associate Dean of Graduate Studies.
 5. If none of these other steps help (enough), or if your issue precludes going through the usual procedures, contact UK Academic Ombud Services^[[https://ombud.uky.edu](https://ombud.uky.edu)]. As stated on their website, “At the University of Kentucky, Academic Ombud Services is responsible for resolving academic related problems and conflicts between students and faculty for which established procedures have not yielded a satisfactory solution or for which no established procedure exists.”
 
+# How do I find a research topic?
+
+Early on in an MA or PhD program in linguistics it is common for students to wonder where on earth research ideas come from. Don't panic. Nearly everyone who has gone before you has felt this; you're not alone.
+
+Unfortunately, the answer is probably frustrating: read things. Read widely, read critically, and take notes^[MA student, John Winstead has created a fantastic list of software and resources for linguists working at UK. [https://linguistics.as.uky.edu/linguistics-resources](https://linguistics.as.uky.edu/linguistics-resources)]. You don't need to think a thought no one has ever thought before; you just have to think about it differently. In fact, many (if not most) successful projects begin with a replication and extension of previous work of some kind. An excellent place to develop a research topic is to build on a successful term paper from one of your classes; these papers let you start small and get feedback right away.
+
+A slightly less frustrating answer is: talk to people and listen to people. Talk with your advisor and committee members. Discuss readings with your peers. Attend departmental colloquia and LGSA talks. Eventually you'll probably find that the real problem is how to find time to pursue all of your good research project ideas.
+
 # Co-Authoring Policy
 <!-- from umich -->
 Science is a team sport. But different disciplines have differing expectations about co-authorship, especially when it involves faculty and graduate students. There can even be differences within a discipline; in Linguistics, for example, graduate student-faculty co-authorship is more common on the Social Science flank than on the Humanities flank. Junior faculty who are (appropriately) concerned about how much a faculty-student co-authored paper will “count” in the tenure review process should discuss with the Department Chair co-authorship issues as they pertain to their specific area(s) of interest.
@@ -317,9 +346,15 @@ The order of the authors in a proposed publication is also an issue that needs t
 
 # Employment
 
-## Alternatives to Academic Careers
+Whether you are interested in pursuing a non-academic career that draws on your linguistic expertise or want to think about postdocs, lecturer positions, and the tenure track, 
 
-## Academic Employment
+- Linguistics Career Launch^[[https://www.linguisticscareerlaunch.com](https://www.linguisticscareerlaunch.com)] is a program from the LSA intended to help prepare linguists for careers beyond academia. The youtube videos on the site are a particularly good resource.
+- Will Styler maintains an excellent 'jobs' page with advice aimed at degree holders of all levels wondering interested in alt-ac and ac jobs.
+- The linguist list [https://linguistlist.org](https://linguistlist.org) is an old-school e-mail list^[for those who are not interested in more e-mail, there are also RSS feeds available: [https://linguistlist.org/rss/](https://linguistlist.org/rss/)] with job postings and much more.
+
+# The Linguistic Graduate Student Association (LGSA)
+
+The purpose of the Linguistic Graduate Student Association (henceforth LGSA) is to enhance the social, networking, outreach, and professional development experiences of graduate students in linguistics and the language sciences. This includes, but is not limited to, promoting linguistics related activities, facilitating mentoring opportunities, undertaking communications with linguistics faculty, increasing awareness of and advocating for linguistics related issues on campus at the University of Kentucky.
 
 # Program Checklists
 
