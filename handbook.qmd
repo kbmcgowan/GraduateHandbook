@@ -2,11 +2,9 @@
 title: "UK Linguistics Graduate Handbook"
 subtitle: "(draft) Summer 2023^[Find the most recent revision of this document on the [UK Linguistics Graduate Programs](https://linguistics.as.uky.edu/ling-grad-program) page]"
 date: "`r Sys.Date()`"
-header-includes:
-   -  \usepackage{colortbl} 
-   -  \usepackage{xcolor} 
 format:
     html:
+      theme: cerulean
       toc: true
       toc-location: right
       number-sections: true
@@ -25,6 +23,7 @@ tbl-cap-location: margin
 ---
 
 ```{r echo=FALSE}
+
 ```
 
 # General Information
@@ -125,14 +124,6 @@ MA students are strongly encouraged to identify a potential advisor during their
 
 ## Coursework Requirements
 
-```{r}
-#| column: margin
-
-knitr::kable(
-  mtcars[1:3, 1:3]
-)
-```
-
 Earning an MA in Linguistics at the University of Kentucky requires the successful completion of 30 total hours of coursework including the following core courses:
 
 - LIN 601 - Qualitative Research Methods in Linguistics
@@ -193,9 +184,9 @@ Introductory text about Ph.D. program.
 # Departmental Citizenship, Review, and Academic Progress
 
 # Research Ethics and the Institutional Review Board
-Ethics thing
-ORI
-IRB
+- XXX Ethics thing
+- ORI
+- IRB
 
 # Advising
 ## Introduction: Your academic advisor
@@ -407,7 +398,6 @@ The purpose of the Linguistic Graduate Student Association (henceforth LGSA) is 
   - [ ] Thesis defense (Final Doctoral Examination) must be scheduled with advisor, committee, and identified external Member (Graduate School representative)
   - [ ] The Request for Final Doctoral Examination form must be filed at least two weeks prior to the Final Exam
   - [ ] Within 60 days of oral defense, final copy of the dissertation must be filed electronically with the Graduate School along with the [ETD Approval Form](https://gradschool.uky.edu/electronic-thesis-defense)^[[gradschool.uky.edu/electronic-thesis-defense](https://gradschool.uky.edu/electronic-thesis-defense)] which needs to be signed by the student, their advisor, and the DGS.
-
 
 # Note on formatting
 
