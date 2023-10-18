@@ -84,7 +84,7 @@ The DGS maintains a ranked list of students who have requested summer teaching a
 
 ## Possibilities for Research, Conference, and Institute Funding
 
-Given the yearly variation in both the amount of available funding and student requests for the funds, funding is competitive and not guaranteed.
+Given the yearly variation in both the amount of available funding and student requests for the funds, funding is competitive and not guaranteed. XXX there should be some text here about funding in general XXX
 
 ### Research Funding
 
@@ -200,15 +200,15 @@ Graduate school regulations specify that half of all courses toward the degree m
 ## Advancing to Candidacy
 
 ## Dissertation Prospectus
-<!-- from umich -->
+<!-- from ?? -->
 ## Dissertation Committee
-<!-- from umich -->
+<!-- from ?? -->
 ## Dissertation Defense
-<!-- from umich -->
+<!-- from ?? -->
 ## Time to Degree
-<!-- from umich -->
+<!-- from ?? -->
 ## Timeline
-<!-- from umich -->
+<!-- from ?? -->
 
 ## Completing the Doctoral Thesis Requirements
 
@@ -434,6 +434,7 @@ The purpose of the Linguistic Graduate Student Association (henceforth LGSA) is 
 - [ ] Sociolinguistics (at least 1 of LIN 506, LIN 507, LIN 508, LIN 606, LIN 619, or an approved LIN 517 or LIN 527)
 - [ ] Corpus/Computational (at least 1 of LIN 510, LIN 511, LIN 610, or an approved LIN 517)
 - [ ] Expertise requirement (3 courses, 9 hours at the 600 level or above in area of concentration)
+- [ ] Other electives (2 courses, 6 hours at the 600 level or above for breadth)
 - [ ] Advisor engaged by end of 2^nd^ semester and registered with the DGS
 - [ ] XXX Demonstrated knowledge of 2 human languages other than English XXX
 - [ ] Committee formed (3^rd^ semester) and The Formation of Doctoral Advisory Committee Form is submitted to the Graduate School^[[gradschool.uky.edu/studentforms](https://gradschool.uky.edu/studentforms)]
