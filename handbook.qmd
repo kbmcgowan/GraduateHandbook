@@ -1,6 +1,6 @@
 ---
 title: "UK Linguistics Graduate Handbook"
-subtitle: "(draft) Summer 2023^[Find the most recent revision of this document on the [UK Linguistics Graduate Programs](https://linguistics.as.uky.edu/ling-grad-program) page]"
+subtitle: "(draft) Fall 2023^[Find the most recent revision of this document on the [UK Linguistics Graduate Programs](https://linguistics.as.uky.edu/ling-grad-program) page]"
 date: "`r Sys.Date()`"
 format:
     html:
@@ -70,7 +70,7 @@ Further information regarding scholastic probation is available in the UK Gradua
 
 ### Summer Support
 
-XXX We need to stipulate an actual policy on summer support that includes block funding and teaching opportunities.
+XXX We need to stipulate a formal policy on summer support that includes block funding and teaching opportunities.
 
 ### Priority for Summer Teaching
 <!-- from math -->
@@ -154,7 +154,7 @@ Nine credit hours may be shared between the two degrees, with the approval of bo
 
 ## Completing the MA Thesis Requirement
 
-XXX text still needed about completing the MA thesis.
+The backbone of the MA program in linguistics is the thesis which represents a significant, independent research project, conducted with the support of a thesis chair and advising committee. This thesis should respond to a relevant question in Linguistics and, beyond satisfying the requirements for the MA desgree, serves two primary goals: (1) to allow the student to experience independent research and writing of a substantial project to assess their commitment to and interest in continuing as a researcher. (2) to demonstrate to others (e.g. employers, admissions committees, granting agencies) that the student is capable of world-class Linguistics research.
 
 ## Applying to Doctoral Programs
 
@@ -162,12 +162,43 @@ Students in the MA program considering applying to Ph.D. programs in order to co
 
 # Ph.D. Program
 ## Introduction
-Introductory text about Ph.D. program.
+XXX Introductory text about Ph.D. program.
+
 ## Advisor and Thesis Committee
+
+XXX
+
 ## Coursework Requirements
+
+Earning a PhD in Linguistics at the University of Kentucky requires the successful completion of 36 total hours of coursework including the following core courses:
+
+### Required courses (6 hours)
+- LIN 601 - Qualitative Research Methods in Linguistics
+- LIN 611 - Quantitative Research Methods in Linguistics
+
+### Core courses (6 hours)
+
+- LIN 500/600 or LIN 515/615 - One course in Phonetics or Phonology
+- LIN 505/605 or LIN 512/622 - One course in Morphology or Syntax
+
+### Disciplinary Breadth Courses (9 hours)
+- Historical Linguistics (1 course from LIN 519, LIN 529, LIN 619, LIN 629, or an approved LIN 517 or LIN 527)
+- Sociolinguistics (1 course from LIN 506, LIN 507, LIN 508, LIN 606, LIN 619, or an approved LIN 517 or LIN 527)
+- Corpus and Computational linguistics (1 course from LIN 510, LIN 511, LIN 610, or an approved LIN 517)
+
+### Advanced Courses in Area of Concentration (9 hours)
+Students must take three LIN courses at the 600 level or above in their area of concentration. These courses will be selected in collaboration with the student’s advisor and/or the DGS.
+
+### Other Electives (6 hours)
+Graduate school regulations specify that half of all courses toward the degree must be at the 600 level or above.  Ordinarily these will be LIN courses but students may substitute courses in other programs with approval of the student’s advisor and/or the DGS. It is recommended that students use this category to gain additional experience in areas beyond their area of concentration for breadth of exposure.
+
+
 ## Concurrent Degrees
-## Qualifying Examination
+
+## Qualifying for Candidacy
+
 ## Advancing to Candidacy
+
 ## Dissertation Prospectus
 <!-- from umich -->
 ## Dissertation Committee
@@ -181,7 +212,31 @@ Introductory text about Ph.D. program.
 
 ## Completing the Doctoral Thesis Requirements
 
-# Departmental Citizenship, Review, and Academic Progress
+# Departmental Citizenship
+
+The ability to maintain professional working relationships with colleagues, even with those whose theoretical, political, or social views we disagree with, is a crucial skill in both academic and non-academic careers. Our community values professionalism among and towards staff, students, faculty, and fellow graduate students. Maintaining these kinds of relationships becomes more difficult when language or behavior used in professional settings degrades, isolates, or threatens the identities or existence of our colleagues who share that space. Behavior that marginalizes or that exploits power imbalances for the benefit of the more powerful undermines community and limits the full potential of the marginalized or disempowered community member. As linguists, we recognize that names, and words, can be just as damaging, if not moreso, than sticks and stones. Verbal and physical aggression in professional spaces will not be tolerated; members of this intellectual community are expected to be respectful and mindful of others' feelings, beliefs, and identities and to maintain a cooperative environment as much as possible, despite personality conflicts. Violations of this web of respect should be brought to the attention of the DGS and/or Department Chair swiftly and will be addressed thoughtfully and transparently.
+
+For clarity, the following rules (from AR 7.2.1) govern Faculty behavior in a professional environment and our department officially extends them as guidelines for Staff and Graduate Students as well.
+
+- Respect the rights of all campus members to pursue their academic and administrative activities.
+- Respect the rights of all campus members to free and orderly expression.
+- Act with propriety in all dealings with members of the University community.
+
+Harassment and discrimination, including sexual or gender harassment and discrimination, will not be tolerated. Unwelcome sexual advances, requests for sexual favors, deadnaming, or other verbal or physical actions that restrict, intentionally or otherwise, the rights of a colleague to pursue their academic and administrative activities will not be tolerated (see AR 7.2 for additional information).  Additionally, romantic relationships with any of your students or professors are not welcome in this community. The power imbalance implicit in such relationships precludes consent and can not be endorsed or tolerated in a healthy professional environment. Relationships among peers are, of course, possible. However, ff you plan on dating a fellow graduate student, it is critical to make ensure that everyone involved will be able to maintain a professional relationship at work (suggestion: think about how that professional relationship will be affected, long-term, if the romantic one ends). 
+
+The following is a list of some things that many people in academia consider to be unprofessional. It does not mean that these are considered unprofessional by everyone, however, you take a high risk of offending a coworker (or at least appearing as immature) by engaging in these behaviors around them:
+
+- Discussing religious or political beliefs unless asked to do so
+- Discussing things of a sexual nature, unless it's an academic discussion and all parties involved have consented to the discussion topic
+- Using someone else's deity's name in an exclamation or in a derogatory manner
+- Making broad generalizations about people of a specific group or gender
+- Engaging in illegal behavior
+- Absence from meetings or class, except in rare cases of emergencies
+- Lateness to meetings or class, except in rare cases of emergencies
+- Not submitting things (assessments, summer teaching applications, etc.) on time 
+- Not responding to official emails (within two work days)
+- Taking off your shoes inside or showing someone the soles of your feet
+- Gossiping about colleagues or students, especially in the TA office or other shared spaces 
 
 # Research Ethics and the Institutional Review Board
 - XXX Ethics thing
