@@ -147,6 +147,8 @@ MA students may choose to pursue a concurrent degree with another program in the
 - M.A. in German
 - M.A. in Teaching English as a Second Language
 - M.A. in Teaching World Languages
+- M.S. in Statistics
+- M.S. in Computer Science
 - Graduate Certificate in Latin Studies
 - Graduate Certificate in Teaching English as a Second Language
 
@@ -164,9 +166,16 @@ Students in the MA program considering applying to Ph.D. programs in order to co
 ## Introduction
 XXX Introductory text about Ph.D. program.
 
-## Advisor and Thesis Committee
+## Advisor and Dissertation Committee
 
-XXX
+Selecting an appropriate advisor is an important decision for any doctoral student. Ideally, the student will form a healthy working relationship with a faculty member whose expertise in the proposed research area is sufficient to offer guidance and mentorshp. This document contains a number of suggestions about selecting an appropriate advisor and managing that relationship including what students can expect from the advisor/advisee relationship and what an advisor can expect from the student. An advisor should ideally be selected by the end of the fourth semester to supervise development of the dissertation prospectus, but this advisor need not serve as chair or reader for the QP project.
+
+### Dissertation Committee
+
+The dissertation committee has a core of four members. This core must include a minimum of two faculty members from the graduate program (with one being the major professor as chair or co-chair), and one representative from outside the graduate program. All members of the core must be members of the Graduate Faculty of the University of Kentucky and three (including the major professor) must possess full Graduate Faculty status.
+
+Faculty members from other institutions may serve on dissertation committees if they meet the requirements for appointment as associate members of the UK Graduate Faculty.
+When faculty members retire or leave the University, they may continue their service on previously established doctoral Advisory Committees but cannot be appointed to new committees. Requests to continue service should be made by the DGS to the Graduate School Dean, and include the names of all students affected.
 
 ## Coursework Requirements
 
@@ -192,51 +201,58 @@ Students must take three LIN courses at the 600 level or above in their area of 
 ### Other Electives (6 hours)
 Graduate school regulations specify that half of all courses toward the degree must be at the 600 level or above.  Ordinarily these will be LIN courses but students may substitute courses in other programs with approval of the student’s advisor and/or the DGS. It is recommended that students use this category to gain additional experience in areas beyond their area of concentration for breadth of exposure.
 
-
 ## Concurrent Degrees
+Many students earn a Masters degree in a related field while pursuing doctoral study and the graduate school makes allowances for this. The student must complete the "Concurrent Masters and Doctoral Programs^[[Concurrent Masters and Doctoral Programs (pdf)](https://gradschool.uky.edu/sites/gradschool.uky.edu/files/Forms/StudentForms/Concurrent_Masters_Doctoral_9-18-20.pdf)]" form available on the graduate school website. This form requires signatures from the student and from the DGS of each host program. A maximum of 9 credit hours can be shared between the two programs.
 
-## Qualifying for Candidacy
+Although not expressly forbidden, the graduate school does not make explicit allowances for dual concurrent PhD programs and such a program would need to be designed exceedingly carefully in consultation with the DGS or an advisor from both of the host programs.
 
-## Advancing to Candidacy
+## Advancing to Candidacy: The QP
+
+### Timeline
+A student advances to candidacy when the following conditions have been met:
+
+- At least 36 graduate credit hours.
+- Successful completion of all course requirements as listed above
+- Successful completion of the Qualifying Paper.
+
+Students are expected by both the Graduate School and the Department of Linguistics to advance to candidacy by the end of their 5th term (usually the middle of the third year). Failure to advance to candidacy by then will normally result in not being in good standing. Exceptions may be granted upon request, at the discretion of the DGS and in consultation with the student's advisor(s).
+
+To advance to candidacy the student must pass the graduate school's requirement for a qualifying examination by submitting a substantial qualifying paper (QP). The graduate school requires that you must complete the equivalent of two years of residency (four semesters or 36 graduate credit hours) to be eligible to defend your QP. As stated above, submission at the end of the fifth or, with an exception, during the sixth semester is expected, but no student of the University of Kentucky Graduate School may satisfy this requirement after the tenth semester of study.
+
+### Description of the QP
+The QP, which represents a significant, independent research project, is written in addition to any others done as part of course work and is planned in consultation with a faculty member. It may be a substantially expanded or elaborated version of a course paper or an entirely separate project. The paper should show the student's ability to pose a linguistic question within a framework of current linguistic research, collect and marshal empirical evidence that bears on that question, and present the results in a way that communicates successfully to other linguists. It is expected to be of sufficient scope and quality that it would be generally acceptable as a conference presentation or journal publication in the field.
+
+### Assessment and Defense
+The QP is assessed by two faculty readers versed in the topic area of the paper, usually one serving as the primary advisor, and is normally presented at a public defense.
 
 ## Dissertation Prospectus
-<!-- from ?? -->
-## Dissertation Committee
-<!-- from ?? -->
+
+The principal goal of the prospectus is to communicate clearly to the dissertation committee the background to the proposed dissertation research, and its goals, scope and methods. It usually begins with a discussion of the central issue or problem, interwoven with a critical review of the scholarship to date in the area. The prospectus should include an outline of data collection procedures and other methodological issues, as well as a demonstration — usually via some preliminary analysis — that the proposed study will be able to deliver answers to the research questions. 
+
+The prospectus is prepared in consultation with members of the dissertation committee. Students consult with their advisor in identifying faculty who might be approached as suitable committee members. The draft prospectus is discussed in a meeting involving at least 3 dissertation committee members (ideally, the full committee) so that faculty have a clear and common understanding of the student's plans, so that they can offer their advice and suggestions, and so that the student can defend the prospectus. An approved prospectus, signed by all members of the committee, is filed with the Department. The prospectus should be defended by the end of the 8th term.
+
 ## Dissertation Defense
-<!-- from ?? -->
-## Time to Degree
-<!-- from ?? -->
-## Timeline
-<!-- from ?? -->
+Upon completion of the research and writing of the dissertation, each student will be expected to defend their work. This defense is typically public and all members of the Department are invited to attend.  More junior graduate students should make an effort to attend every doctoral thesis defense, even those outside their own research area, to benefit from others' experiences.
+
+The student is expected to circulate a complete defense draft of the final thesis to all committee members no later than two weeks (10 working days) prior to the scheduled defense. After a successful defense, the student will receive feedback from all committee members which will typically include a number of required and optional changes. These changes will be reviewed by the student's advisor and, in many cases, the committee member prior to submission of the final draft to the graduate school for review.
+
+All members of a student’s graduate committee are expected to attend and participate in any oral examination as part of the student’s doctoral degree program. Traditionally, oral examinations are conducted with the student meeting with their committee while gathered in one physical location on campus. However, the need occasionally arises for virtual participation in the oral examination and the DGS can assist in obtaining the necessary graduate school permissions for virtual participation in the dissertation defense.
 
 ## Completing the Doctoral Thesis Requirements
 
+The dissertation is a substantial piece of work that presents and analyzes original research results, and motivates the research and interprets the results within an appropriate framework. The dissertation is supervised by a dissertation committee consisting of at least 4 members, at least 2 of whom are in the Department of Linguistics and at least 1 Graduate Faculty member from another Department. The dissertation is examined at a public oral defense. It is expected that the Dissertation be defended before the end of the 10th term.
+
 # Departmental Citizenship
 
-The ability to maintain professional working relationships with colleagues, even with those whose theoretical, political, or social views we disagree with, is a crucial skill in both academic and non-academic careers. Our community values professionalism among and towards staff, students, faculty, and fellow graduate students. Maintaining these kinds of relationships becomes more difficult when language or behavior used in professional settings degrades, isolates, or threatens the identities or existence of our colleagues who share that space. Behavior that marginalizes or that exploits power imbalances for the benefit of the more powerful undermines community and limits the full potential of the marginalized or disempowered community member. As linguists, we recognize that names, and words, can be just as damaging, if not moreso, than sticks and stones. Verbal and physical aggression in professional spaces will not be tolerated; members of this intellectual community are expected to be respectful and mindful of others' feelings, beliefs, and identities and to maintain a cooperative environment as much as possible, despite personality conflicts. Violations of this web of respect should be brought to the attention of the DGS and/or Department Chair swiftly and will be addressed thoughtfully and transparently.
+The ability to maintain professional working relationships with colleagues, even with those whose theoretical, political, or social views we disagree with, is a crucial skill in both academic and non-academic careers. Our community values professionalism among and towards staff, students, faculty, and fellow graduate students. Maintaining these kinds of relationships becomes more difficult when language or behavior used in professional settings that degrades, isolates, or threatens the identities or existence of our colleagues who share that space. Behavior that marginalizes or that exploits power imbalances for the benefit of the more powerful undermines community and limits the full potential of the marginalized or disempowered community member. As linguists, we recognize that names, and words, can be just as damaging, if not moreso, than sticks and stones. Verbal and physical aggression in professional spaces will not be tolerated; members of this intellectual community are expected to be respectful and mindful of others' feelings, beliefs, and identities and to maintain a cooperative environment as much as possible, despite personality conflicts. Violations of this web of respect should be brought to the attention of the DGS and/or Department Chair swiftly and will be addressed thoughtfully and transparently.
 
-For clarity, the following rules (from AR 7.2.1) govern Faculty behavior in a professional environment and our department officially extends them as guidelines for Staff and Graduate Students as well.
+For clarity, the following rules (from AR 7.2.1) govern Faculty behavior in a professional environment and our department officially extends these as guidelines for Staff and Graduate Students as well.
 
 - Respect the rights of all campus members to pursue their academic and administrative activities.
 - Respect the rights of all campus members to free and orderly expression.
 - Act with propriety in all dealings with members of the University community.
 
-Harassment and discrimination, including sexual or gender harassment and discrimination, will not be tolerated. Unwelcome sexual advances, requests for sexual favors, deadnaming, or other verbal or physical actions that restrict, intentionally or otherwise, the rights of a colleague to pursue their academic and administrative activities will not be tolerated (see AR 7.2 for additional information).  Additionally, romantic relationships with any of your students or professors are not welcome in this community. The power imbalance implicit in such relationships precludes consent and can not be endorsed or tolerated in a healthy professional environment. Relationships among peers are, of course, possible. However, ff you plan on dating a fellow graduate student, it is critical to make ensure that everyone involved will be able to maintain a professional relationship at work (suggestion: think about how that professional relationship will be affected, long-term, if the romantic one ends). 
-
-The following is a list of some things that many people in academia consider to be unprofessional. It does not mean that these are considered unprofessional by everyone, however, you take a high risk of offending a coworker (or at least appearing as immature) by engaging in these behaviors around them:
-
-- Discussing religious or political beliefs unless asked to do so
-- Discussing things of a sexual nature, unless it's an academic discussion and all parties involved have consented to the discussion topic
-- Using someone else's deity's name in an exclamation or in a derogatory manner
-- Making broad generalizations about people of a specific group or gender
-- Engaging in illegal behavior
-- Absence from meetings or class, except in rare cases of emergencies
-- Lateness to meetings or class, except in rare cases of emergencies
-- Not submitting things (assessments, summer teaching applications, etc.) on time 
-- Not responding to official emails (within two work days)
-- Taking off your shoes inside or showing someone the soles of your feet
-- Gossiping about colleagues or students, especially in the TA office or other shared spaces 
+Harassment and discrimination, including sexual or gender harassment and discrimination, will not be tolerated. Unwelcome sexual advances, requests for sexual favors, deadnaming, or other verbal or physical actions that restrict, intentionally or otherwise, the rights of a colleague to pursue their academic and administrative activities will not be tolerated (see AR 7.2 for additional details).  Additionally, romantic relationships with any of your students or professors are not welcome in this community. The power imbalance implicit in such relationships precludes consent and can not be endorsed or tolerated in a healthy professional environment. Relationships among peers are, of course, possible. However, if you plan on dating a fellow graduate student, it is critical to ensure that everyone involved will be able to maintain a professional relationship at work (suggestion: think about how that professional relationship will be affected, long-term, if the romantic one ends). 
 
 # Research Ethics and the Institutional Review Board
 - XXX Ethics thing
@@ -436,7 +452,6 @@ The purpose of the Linguistic Graduate Student Association (henceforth LGSA) is 
 - [ ] Expertise requirement (3 courses, 9 hours at the 600 level or above in area of concentration)
 - [ ] Other electives (2 courses, 6 hours at the 600 level or above for breadth)
 - [ ] Advisor engaged by end of 2^nd^ semester and registered with the DGS
-- [ ] XXX Demonstrated knowledge of 2 human languages other than English XXX
 - [ ] Committee formed (3^rd^ semester) and The Formation of Doctoral Advisory Committee Form is submitted to the Graduate School^[[gradschool.uky.edu/studentforms](https://gradschool.uky.edu/studentforms)]
 - [ ] Dissertation Proposal scheduled with committee and room reserved with at least two weeks prior notice
 - [ ] Dissertation Proposal defended
