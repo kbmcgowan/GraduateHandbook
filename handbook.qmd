@@ -70,10 +70,11 @@ Further information regarding scholastic probation is available in the UK Gradua
 
 ### Summer Support
 
-XXX We need to stipulate a formal policy on summer support that includes block funding and teaching opportunities.
+A limited number of teaching positions are available through the Linguistics department each year. Students interested in applying to teach a summer course should apply via the Summer Teaching request form. Applications will be assessed by the Admissions and Awards committee and will be evaluated in terms of teaching qualifications (students must be eligible to teach a course as instructor of record), previous teaching performance, and seniority in the program.
 
+<!--
 ### Priority for Summer Teaching
-<!-- from math -->
+ from math 
 A limited number of teaching assignments are available in summer sessions 1 and 2. Students interested in such positions will be ranked according to the number of years they have completed in the program. Within each year, priority for course assignments will be made based on a consideration of previous teaching experience, summer courses being offered, and academic record. Exceptions to these rankings might be made in the following cases:
 
 - Students who have not completed their previous teaching duties in a satisfactory manner meeting the basic expectations for teaching assistants.
@@ -81,16 +82,13 @@ A limited number of teaching assignments are available in summer sessions 1 and 
 - Students who have other summer support will not be considered for summer teaching.
 
 The DGS maintains a ranked list of students who have requested summer teaching and assigns summer teaching as positions become available. The number of positions is dependent on enrollment and course offerings.
+-->
 
 ## Possibilities for Research, Conference, and Institute Funding
 
-Given the yearly variation in both the amount of available funding and student requests for the funds, funding is competitive and not guaranteed. XXX there should be some text here about funding in general XXX
-
-### Research Funding
-
-XXX There should be some text here about research funding available to graduate students. Writing this depends on what we do about summer funding since they pull from the same little pool of money.
-
 ### Conference Supplemental Funding
+
+Given the yearly variation in both the amount of available funding and student requests for the funds, funding is competitive and not guaranteed. The Graduate School provides the College with limited "Block" funds which our department chooses to use to fund graduate student research and travel. These moneys are available on a first-come-first-served basis and students should apply using the Research and Travel funding request form. These applications will be evaluated by the admissions and awards committee. Funding may be used for research (e.g. participant fees) or conference travel.
 
 The Department works to provide graduate students with a supplement to attend conferences outside of Lexington. This supplement is designed to help (but usually not fully) cover costs related to travel, lodging and registration. Given the yearly variation in both the funds amounts and student requests for the funds, funding to all students is not guaranteed. This funding works under the following rules:
 
@@ -106,7 +104,7 @@ You can find poster and slide template files on the [resources page](https://lin
 
 ### Institute (and summer program) Funding
 
-XXX text about how Institute funding works goes here. Probably Rusty has this and I've e-mailed him.
+Due to the success of the 2017 Linguistic Institute, hosted here at the University of Kentucky, the department has a limited pool of funds available to sponsor student tuition at future Institutes and similar summer schools. Interested students should apply using the Research and Travel funding request form and simultaneously apply for any fellowship or scholarship funding available through the Institute/Summer school. These applications will be evaluated by the admissions and awards committee. This particular funding is available for tuition only and may not be used for room, board, or travel.
 
 # MA Program
 
@@ -260,6 +258,9 @@ Harassment and discrimination, including sexual or gender harassment and discrim
 - IRB
 
 # Advising
+
+The Department of Linguistics is committed to facilitating close collaboration between faculty and students with shared areas of interest. At the outset of their program, students will be advised by the Director of Graduate Studies (DGS) about course registration, progress through the program, and other general concerns. Once a student has chosen a thesis topic (or area of concentration), they will ask a faculty member to chair their thesis committee. The DGS and thesis committee chair will then be the major points of contact for program and thesis advice and advising. The advisor/advisee relationship is a critical component of student success, and it is important to recognize that people have different relationship styles and that there is a diversity of models for what this professional relationship should be (see below, "Choosing an Advisor" and following).
+
 ## Introduction: Your academic advisor
 Who is your “advisor”?
 
@@ -284,7 +285,67 @@ This UK Linguistics Graduate Handbook describes the requirements of the Linguist
 The Graduate Catalog describes Graduate School-wide requirements, including those that overlap with topics covered here, but also extending to policies such as “add/drop” requirements for courses, residency requirements, moonlighting regulations, time-to-degree limits, and so on.
 
 ## Advising expectations during coursework
-### What the DGS can expect from the student
+## Introduction: Your Director of Graduate Studies (DGS)
+
+### Expectations and relationship with the DGS
+
+The DGS serves as the conduit between graduate students and the larger department and university communities. They will advise graduate students on degree progress, thesis and defense requirements, and will send out regular reminders about all important deadlines (applying for graduation, scheduling thesis defense, thesis submission, etc.) as well as advising emails with details about upcoming courses and course registration. The DGS will keep graduate students informed of events (e.g. speakers, workshops, conferences, etc.) that may be of interest.
+
+### The DGS is expected to:
+
+- Be aware of students' course choices
+- Be mindful of departmental and Graduate School deadlines
+- Monitor GPAs, and other indicators of student performance
+
+The DGS performs the following duties related to the completion of the MA thesis:           
+- Reviews and approve MA thesis submission forms
+- Reviews and approve MA exam sheets for thesis defenses
+- Approves all scheduled defenses and committee membership
+- Writes justifications for and make requests to the Graduate School for any non-UK committee members on MA committees
+
+### With respect to the DGS, Students are expected to:
+
+- Read their UK emails and respond when appropriate
+- Inform the DGS of the courses the student plans to enroll in and keep the DGS informed of progress or problems
+- Learn and comply with departmental and Graduate School deadlines and regulations
+
+### Expectations about and relationship with the MA thesis committee chair
+
+In order to ensure a successful relationship, the department suggests that students discuss the following points when identifying a potential chair:
+
+- The student's personal timeline and the timing of committee formation and other program milestones
+- The advisor's preferred communication method and frequency
+- The expected supervisory model or style
+
+Students might consider asking:
+
+- How quickly does your advisor respond to written submissions turned in on time?
+- How quickly does your advisor respond to requests to schedule meetings or conversations?
+- How regularly does your advisor like to meet?
+- How often would your advisor like a written report of your progress along degree milestones? What format should this report take?
+ 
+
+## Once an MA thesis committee chair has been chosen, both student and chair should remain mindful of the following.
+
+### Thesis chairs are expected to:
+
+- Maintain regular communication with advisees
+- Ensure that advisees are formally supported in their work (either by themselves or another faculty member) when the advisor is on sabbatical or research leave
+- Provide timely, substantive feedback on work submitted by advisees
+- Encourage and help advisees identify opportunities to participate in the larger professional community, e.g. conference presentations, workshop participation, grant/fellowship funding, publication opportunities, etc.
+- Mentor students about professional norms and provide guidance as they pursue the next stage of their education/training or enter the professional workforce
+ 
+## MA Students are expected to:
+
+- Initiate regular communication with their advisor
+- Work with their advisor to create an agreed upon timeline for reaching thesis milestones and maintain timely progress toward completion of the thesis
+- In consultation with advisor, determine and facilitate the meaningful participation of the other thesis committee members to ensure optimal progress in preparation of the thesis
+- Consult with their advisor about how to best prepare their professional future, whether in academia or another sector, by participating in professional meetings or other appropriate forums and networking opportunities
+ 
+If students have concerns about the advising they are receiving they should arrange to speak confidentially with the Director of Graduate Studies or the Department Chair. The department faculty want to support graduate students and will take their concerns seriously. Students may also seek out the guidance of the [Academic Ombud Services](http://www.uky.edu/ombud/). Any student, after due consideration and consultation with the DGS, and with the agreement of the identified faculty, may change thesis committee chair or committee members at any point prior to their thesis defense.
+
+### What the DGS can expect from the PhD student
+
 Graduate students in the coursework phase of their program should:
 
 - Maintain familiarity with both the Grad Regs and the Bulletin.
@@ -296,7 +357,7 @@ Graduate students in the coursework phase of their program should:
 - Reach out to the DGS as they approach the end of coursework, to discuss the transition to candidacy.
 - Be familiar with the Graduate School “Student Forms” page^[[gradschool.uky.edu/studentforms](https://gradschool.uky.edu/studentforms)].
 
-### What the student can expect from their DGS
+### What the PhD student can expect from their DGS
 
 The DGS, in their capacity as academic advisor to early-program graduate students, should:
 
@@ -305,9 +366,9 @@ The DGS, in their capacity as academic advisor to early-program graduate student
 - Be available to meet with graduate students during the school year to discuss coursework or other program requirements.
 - Reach out to students as they near the end of coursework, to ensure that the transition to candidacy goes smoothly.
 - Respond in a clear and timely way to requests for clarification about regulations or requirements. As a baseline, one week is a reasonable expectation for a reply to an email.
-- XXX will we be doing an annual review meeting and, if so, DGS will provide an annual progress letter to each student? XXX
+- Will conduct ongoing review meetings with students and provide annual, written feedback and assessment of each student's progress toward the degree.
 
-## Advising expectations during candidacy (or MA thesis work)
+## Advising expectations during doctoral candidacy
 
 ### What the advisor can expect from the student
 
