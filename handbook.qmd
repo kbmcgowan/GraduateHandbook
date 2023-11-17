@@ -54,7 +54,7 @@ Student Rights and Responsibilities are found in the Administrative Regulation (
 ## Academic Load
 
 A graduate student enrolled in 9 credit hours or more in a semester is considered to be full time (see the Graduate Catalog for more information). 
-Typically, a student who is a Teaching Assistant (TA) will take 9-10 credit hours per semester. 
+Except under extremely unique circumstances, a student who is a Teaching Assistant (TA) will take 9-10 credit hours per semester.
 
 ## Independent Studies
 While it is sometimes appropriate to take an independent study course, we ask students to first look for graduate seminars for two reasons. First, seminars with low enrollment may be cancelled. Second, graduate education is about learning beyond the very narrow confines of a thesis or dissertation. Your ability to teach across broad topics and situate your work in the discipline can be crucial in academic job hunting and career success. Your ability to engage deeply and successfully with topics that did not initially interest you can be crucial in a non-academic career.
@@ -162,7 +162,7 @@ Students in the MA program considering applying to Ph.D. programs in order to co
 
 # Ph.D. Program
 ## Introduction
-XXX Introductory text about Ph.D. program.
+Linguistics is an interdisciplinary field situated at the intersection of the humanities, the social sciences, and the natural sciences. The doctoral program at the University of Kentucky provides degree candidates with the training to pursue individualized programs of research into the comprehensive, systematic, scientific, objective, and precise analysis of the cognitive, social, environmental, biological, and structural components of the human capacity for language. This degree program emphasizes our department’s areas of strength, including: Sociolinguistics, Historical linguistics, and Computational linguistics. At the completion of this program, students will be expected to demonstrate a sophisticated understanding of the principles and methods of linguistic research and analysis as they apply to a range of problems, communicate professionally and effectively both orally and in writing to the standards in the field, demonstrate a sophisticated understanding of situations in which ethical questions arise for which linguistic knowledge can be applied, and  demonstrate the ability to explain linguistic concepts to people with varying backgrounds.
 
 ## Advisor and Dissertation Committee
 
@@ -204,16 +204,16 @@ Many students earn a Masters degree in a related field while pursuing doctoral s
 
 Although not expressly forbidden, the graduate school does not make explicit allowances for dual concurrent PhD programs and such a program would need to be designed exceedingly carefully in consultation with the DGS or an advisor from both of the host programs.
 
-## Advancing to Candidacy: The QP
+## Advancing to Candidacy: The Qualifying Paper (QP)
 
 ### Timeline
 A student advances to candidacy when the following conditions have been met:
 
-- At least 36 graduate credit hours.
-- Successful completion of all course requirements as listed above
+- Successful completion of at least 36 graduate credit hours.
+- Successful completion of all course requirements as listed above.
 - Successful completion of the Qualifying Paper.
 
-Students are expected by both the Graduate School and the Department of Linguistics to advance to candidacy by the end of their 5th term (usually the middle of the third year). Failure to advance to candidacy by then will normally result in not being in good standing. Exceptions may be granted upon request, at the discretion of the DGS and in consultation with the student's advisor(s).
+Students are expected by both the Graduate School and the Department of Linguistics to advance to candidacy by the end of their 5th semester (usually the middle of the third year). Failure to advance to candidacy by then will normally result in not being in good standing. Exceptions may be granted upon request, at the discretion of the DGS and in consultation with the student's advisor(s).
 
 To advance to candidacy the student must pass the graduate school's requirement for a qualifying examination by submitting a substantial qualifying paper (QP). The graduate school requires that you must complete the equivalent of two years of residency (four semesters or 36 graduate credit hours) to be eligible to defend your QP. As stated above, submission at the end of the fifth or, with an exception, during the sixth semester is expected, but no student of the University of Kentucky Graduate School may satisfy this requirement after the tenth semester of study.
 
@@ -227,18 +227,18 @@ The QP is assessed by two faculty readers versed in the topic area of the paper,
 
 The principal goal of the prospectus is to communicate clearly to the dissertation committee the background to the proposed dissertation research, and its goals, scope and methods. It usually begins with a discussion of the central issue or problem, interwoven with a critical review of the scholarship to date in the area. The prospectus should include an outline of data collection procedures and other methodological issues, as well as a demonstration — usually via some preliminary analysis — that the proposed study will be able to deliver answers to the research questions. 
 
-The prospectus is prepared in consultation with members of the dissertation committee. Students consult with their advisor in identifying faculty who might be approached as suitable committee members. The draft prospectus is discussed in a meeting involving at least 3 dissertation committee members (ideally, the full committee) so that faculty have a clear and common understanding of the student's plans, so that they can offer their advice and suggestions, and so that the student can defend the prospectus. An approved prospectus, signed by all members of the committee, is filed with the Department. The prospectus should be defended by the end of the 8th term.
+The prospectus is prepared in consultation with members of the dissertation committee. Students consult with their advisor in identifying faculty who might be approached as suitable committee members. The draft prospectus is discussed in a meeting involving at least 3 dissertation committee members (ideally, the full committee) so that faculty have a clear and common understanding of the student's plans, so that they can offer their advice and suggestions, and so that the student can defend the prospectus. An approved prospectus, signed by all members of the committee, is filed with the Department. The prospectus must be defended by the end of the 8th semester
 
 ## Dissertation Defense
 Upon completion of the research and writing of the dissertation, each student will be expected to defend their work. This defense is typically public and all members of the Department are invited to attend.  More junior graduate students should make an effort to attend every doctoral thesis defense, even those outside their own research area, to benefit from others' experiences.
 
 The student is expected to circulate a complete defense draft of the final thesis to all committee members no later than two weeks (10 working days) prior to the scheduled defense. After a successful defense, the student will receive feedback from all committee members which will typically include a number of required and optional changes. These changes will be reviewed by the student's advisor and, in many cases, the committee member prior to submission of the final draft to the graduate school for review.
 
-All members of a student’s graduate committee are expected to attend and participate in any oral examination as part of the student’s doctoral degree program. Traditionally, oral examinations are conducted with the student meeting with their committee while gathered in one physical location on campus. However, the need occasionally arises for virtual participation in the oral examination and the DGS can assist in obtaining the necessary graduate school permissions for virtual participation in the dissertation defense.
+All members of a student’s graduate committee are expected to attend and participate in any oral examination as part of the student’s doctoral degree program. Traditionally, oral examinations are conducted with the student meeting with their committee while gathered in one physical location on campus. However, the need occasionally arises for virtual participation in the oral examination, and the DGS can assist in obtaining the necessary graduate school permissions for virtual participation in the dissertation defense.
 
 ## Completing the Doctoral Thesis Requirements
 
-The dissertation is a substantial piece of work that presents and analyzes original research results, and motivates the research and interprets the results within an appropriate framework. The dissertation is supervised by a dissertation committee consisting of at least 4 members, at least 2 of whom are in the Department of Linguistics and at least 1 Graduate Faculty member from another Department. The dissertation is examined at a public oral defense. It is expected that the Dissertation be defended before the end of the 10th term.
+The dissertation is a substantial piece of work that presents and analyzes original research results, and motivates the research and interprets the results within an appropriate framework. The dissertation is supervised by a dissertation committee consisting of at least 4 members, at least 2 of whom are in the Department of Linguistics and at least 1 Graduate Faculty member from another Department. The dissertation is examined at a public oral defense. It is expected that the Dissertation be defended before the end of the 10th semester.
 
 # Departmental Citizenship
 
@@ -250,12 +250,14 @@ For clarity, the following rules (from AR 7.2.1) govern Faculty behavior in a pr
 - Respect the rights of all campus members to free and orderly expression.
 - Act with propriety in all dealings with members of the University community.
 
-Harassment and discrimination, including sexual or gender harassment and discrimination, will not be tolerated. Unwelcome sexual advances, requests for sexual favors, deadnaming, or other verbal or physical actions that restrict, intentionally or otherwise, the rights of a colleague to pursue their academic and administrative activities will not be tolerated (see AR 7.2 for additional details).  Additionally, romantic relationships with any of your students or professors are not welcome in this community. The power imbalance implicit in such relationships precludes consent and can not be endorsed or tolerated in a healthy professional environment. Relationships among peers are, of course, possible. However, if you plan on dating a fellow graduate student, it is critical to ensure that everyone involved will be able to maintain a professional relationship at work (suggestion: think about how that professional relationship will be affected, long-term, if the romantic one ends). 
+Harassment and discrimination, including sexual or gender harassment and discrimination, will not be tolerated. Unwelcome sexual advances, requests for sexual favors, deadnaming, or other verbal or physical actions that restrict, intentionally or otherwise, the rights of a colleague to pursue their academic and administrative activities will not be tolerated (see AR 7.2 for additional details).  Additionally, romantic relationships with any of your students or professors are not welcome in this community. The power imbalance implicit in such relationships precludes consent and cannot be endorsed or tolerated in a healthy professional environment. Relationships among peers are, of course, possible. However, if you plan on dating a fellow graduate student, it is critical to ensure that everyone involved will be able to maintain a professional relationship at work (suggestion: think about how that professional relationship will be affected, long-term, if the romantic one ends). 
 
+<!--
 # Research Ethics and the Institutional Review Board
 - XXX Ethics thing
 - ORI
 - IRB
+-->
 
 # Advising
 
@@ -286,6 +288,12 @@ The Graduate Catalog describes Graduate School-wide requirements, including thos
 
 ## Advising expectations during coursework
 ## Introduction: Your Director of Graduate Studies (DGS)
+
+The Director of Graduate Studies (DGS) is the local representative of the Linguistics department graduate degree programs to the University of Kentucky graduate school. The DGS is responsible for the recruitment, admission, advising, and examining of students in the program. The DGS is a member of the Linguistics faculty who has been appointed by the Dean of the Graduate School after consultation with Linguistics graduate faculty. The standard term for a DGS is typically three years.
+
+The DGS is responsible for the administration of the graduate program, including maintenance of records, administration of graduate program funds, admission of graduate students, fellowships, program requirement changes and new programs, advising and registration, appointment of advisory and examination committees, and other degree requirements related to the graduate program. Additionally, the DGS serves as the focal point for dissemination of information from the Graduate School.
+
+The DGS serves as program advisor to each student until the student has a thesis or dissertation advisor.
 
 ### Expectations and relationship with the DGS
 
@@ -335,7 +343,7 @@ Students might consider asking:
 - Encourage and help advisees identify opportunities to participate in the larger professional community, e.g. conference presentations, workshop participation, grant/fellowship funding, publication opportunities, etc.
 - Mentor students about professional norms and provide guidance as they pursue the next stage of their education/training or enter the professional workforce
  
-## MA Students are expected to:
+### MA Students are expected to:
 
 - Initiate regular communication with their advisor
 - Work with their advisor to create an agreed upon timeline for reaching thesis milestones and maintain timely progress toward completion of the thesis
@@ -343,6 +351,8 @@ Students might consider asking:
 - Consult with their advisor about how to best prepare their professional future, whether in academia or another sector, by participating in professional meetings or other appropriate forums and networking opportunities
  
 If students have concerns about the advising they are receiving they should arrange to speak confidentially with the Director of Graduate Studies or the Department Chair. The department faculty want to support graduate students and will take their concerns seriously. Students may also seek out the guidance of the [Academic Ombud Services](http://www.uky.edu/ombud/). Any student, after due consideration and consultation with the DGS, and with the agreement of the identified faculty, may change thesis committee chair or committee members at any point prior to their thesis defense.
+
+## Advising expectations during doctoral candidacy
 
 ### What the DGS can expect from the PhD student
 
@@ -361,14 +371,12 @@ Graduate students in the coursework phase of their program should:
 
 The DGS, in their capacity as academic advisor to early-program graduate students, should:
 
-- Meet with all incoming first-year graduate students before the start of the Fall term to go over program requirements for the program.
+- Meet with all incoming first-year graduate students before the start of the Fall semester to go over program requirements for the program.
 - Ensure that all incoming graduate students have copies of both the Graduate Handbook and the Graduate Catalog.
 - Be available to meet with graduate students during the school year to discuss coursework or other program requirements.
 - Reach out to students as they near the end of coursework, to ensure that the transition to candidacy goes smoothly.
 - Respond in a clear and timely way to requests for clarification about regulations or requirements. As a baseline, one week is a reasonable expectation for a reply to an email.
 - Will conduct ongoing review meetings with students and provide annual, written feedback and assessment of each student's progress toward the degree.
-
-## Advising expectations during doctoral candidacy
 
 ### What the advisor can expect from the student
 
@@ -472,12 +480,12 @@ The order of the authors in a proposed publication is also an issue that needs t
 Whether you are interested in pursuing a non-academic career that draws on your linguistic expertise or want to think about postdocs, lecturer positions, and the tenure track, 
 
 - Linguistics Career Launch^[[https://www.linguisticscareerlaunch.com](https://www.linguisticscareerlaunch.com)] is a program from the LSA intended to help prepare linguists for careers beyond academia. The youtube videos on the site are a particularly good resource.
-- Will Styler maintains an excellent 'jobs' page with advice aimed at degree holders of all levels wondering interested in alt-ac and ac jobs.
+- Will Styler maintains an excellent 'jobs' page with advice aimed at degree holders of all levels wondering interested in alt-ac and ac jobs. [https://wstyler.ucsd.edu/jobs/](https://wstyler.ucsd.edu/jobs/)
 - The linguist list [https://linguistlist.org](https://linguistlist.org) is an old-school e-mail list^[for those who are not interested in more e-mail, there are also RSS feeds available: [https://linguistlist.org/rss/](https://linguistlist.org/rss/)] with job postings and much more.
 
 # The Linguistic Graduate Student Association (LGSA)
 
-The purpose of the Linguistic Graduate Student Association (henceforth LGSA) is to enhance the social, networking, outreach, and professional development experiences of graduate students in linguistics and the language sciences. This includes, but is not limited to, promoting linguistics related activities, facilitating mentoring opportunities, undertaking communications with linguistics faculty, increasing awareness of and advocating for linguistics related issues on campus at the University of Kentucky.
+The purpose of the Linguistic Graduate Student Association (LGSA) is to enhance the social, networking, outreach, and professional development experiences of graduate students in linguistics and the language sciences. This includes, but is not limited to, promoting linguistics related activities, facilitating mentoring opportunities, undertaking communications with linguistics faculty, increasing awareness of and advocating for linguistics related issues on campus at the University of Kentucky.
 
 # Program Checklists
 
