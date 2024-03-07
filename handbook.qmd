@@ -1,6 +1,6 @@
 ---
 title: "UK Linguistics Graduate Handbook"
-subtitle: "(draft) Fall 2023^[Find the most recent revision of this document on the [UK Linguistics Graduate Programs](https://linguistics.as.uky.edu/ling-grad-program) page]"
+subtitle: "Spring 2024^[Find the most recent revision of this document on the [UK Linguistics Graduate Programs](https://linguistics.as.uky.edu/ling-grad-program) page]"
 date: "`r Sys.Date()`"
 format:
     html:
@@ -60,10 +60,10 @@ Except under extremely unique circumstances, a student who is a Teaching Assista
 While it is sometimes appropriate to take an independent study course, we ask students to first look for graduate seminars for two reasons. First, seminars with low enrollment may be cancelled. Second, graduate education is about learning beyond the very narrow confines of a thesis or dissertation. Your ability to teach across broad topics and situate your work in the discipline can be crucial in academic job hunting and career success. Your ability to engage deeply and successfully with topics that did not initially interest you can be crucial in a non-academic career.
 
 ### Parental Leave for Graduate Students
-The UK Graduate School has a parental leave policy for graduate students. [Link to Graduate School parental leave policy](https://gradschool.uky.edu/assistantships#Parental%20Leave)
+The [UK Graduate School has a parental leave policy for graduate students](https://gradschool.uky.edu/assistantships#Parental%20Leave).
 
 ### Scholastic Probation
-Students must maintain a minimum GPA specified by the graduate school to avoid being placed on scholastic probation. Students placed on scholastic probation are not eligible for fellowships or tuition
+Students must maintain a minimum 3.00 GPA [specified by the graduate school](https://ombud.uky.edu/university-senate-rules/sec-5-rules-relating-attending-university/542-scholastic-probation) to avoid being placed on scholastic probation. Students placed on scholastic probation are not eligible for fellowships or tuition
 scholarships and may not sit for doctoral qualifying or final examinations, or master’s final examinations. 
 
 Further information regarding scholastic probation is available in the UK Graduate Catalog.
@@ -88,23 +88,20 @@ The DGS maintains a ranked list of students who have requested summer teaching a
 
 ### Conference Supplemental Funding
 
-Given the yearly variation in both the amount of available funding and student requests for the funds, funding is competitive and not guaranteed. The Graduate School provides the College with limited "Block" funds which our department chooses to use to fund graduate student research and travel. These moneys are available on a first-come-first-served basis and students should apply using the Research and Travel funding request form. These applications will be evaluated by the admissions and awards committee. Funding may be used for research (e.g. participant fees) or conference travel.
-
-The Department works to provide graduate students with a supplement to attend conferences outside of Lexington. This supplement is designed to help (but usually not fully) cover costs related to travel, lodging and registration. Given the yearly variation in both the funds amounts and student requests for the funds, funding to all students is not guaranteed. This funding works under the following rules:
+Given the yearly variation in both the amount of available funding and student requests for the funds, funding is competitive and not guaranteed. The Graduate School provides the College with limited "Block" funds which our department chooses to use to fund graduate student research and travel. This money is distributed among current students in good standing using an algorithm that provides first-year students with a substantial research and travel budget and divides the remaining funds equally among more advanced students. For the year 2024-2025, for example, this algorithm allotted \$2,500 to newly-admitted PhD students and \$750 per student to second year MA students. We anticipate, but are unable to guarantee, similar distributions in future years.
 
 ::: {.column-margin}
 ![Nour Kayali's 2022 LSA Poster](tiny-nour-poster.png)
 You can find poster and slide template files on the [resources page](https://linguistics.as.uky.edu/linguistics-resources).
 :::
 
-- To be eligible for funding a student must be presenting at the conference (paper session, panel session, poster) 
-- Each student is eligible to receive one supplement per academic year
-- Funding awards are competitive and funds are limited
-- Conference supplement funding is not guaranteed to any individual student
-
 ### Institute (and summer program) Funding
 
-The department has a limited pool of Linguistic Institute funds available to sponsor student tuition at future Institutes and similar summer schools. After applying for any scholarships or similar student support offered by the Institute or summer school, interested students should apply using the Research and Travel funding request form and simultaneously apply for any fellowship or scholarship funding available through the Institute/Summer school. These applications will be evaluated by the admissions and awards committee. This particular funding is available for tuition only and may not be used for room, board, or travel.
+In addition to block funding, the department has a limited pool of Linguistic Institute funds available to sponsor student tuition at future Institutes and similar summer schools. After completing a competitive application for any scholarships or similar student support offered by the Institute or summer school, interested students should apply using the Research and Travel funding request form and simultaneously apply for any fellowship or scholarship funding available through the Institute/Summer school. These applications will be evaluated by the admissions and awards committee. This particular funding is available for tuition only and may not be used for room, board, or travel.
+
+### Other sources of Research and Travel Funding
+
+The Graduate Student Congress (GSC) offers [competitive conference awards ](https://ukgsc.uky.edu/gsc-awards-and-fundings) that students are encouraged to apply for. Other departments and programs at UK (e.g. [the Appalachian Center](https://appalachiancenter.as.uky.edu/student-travel-award)) and many professional organizations (including the [Linguistic Society of America](https://www.linguisticsociety.org/content/lsa-student-programs-services) offer funding that individual students may be eligible for and are encouraged to pursue.
 
 # MA Program
 
@@ -154,7 +151,7 @@ Nine credit hours may be shared between the two degrees, with the approval of bo
 
 ## Completing the MA Thesis Requirement
 
-The backbone of the MA program in linguistics is the thesis which represents a significant, independent research project, conducted with the support of a thesis chair and advising committee. This thesis should respond to a relevant question in Linguistics and, beyond satisfying the requirements for the MA desgree, serves two primary goals: (1) to allow the student to experience independent research and writing of a substantial project to assess their commitment to and interest in continuing as a researcher. (2) to demonstrate to others (e.g. employers, admissions committees, granting agencies) that the student is capable of world-class Linguistics research.
+The backbone of the MA program in linguistics is the thesis which represents a significant, independent research project, conducted with the support of a thesis chair and advising committee. This thesis should respond to a relevant question in Linguistics and, beyond satisfying the requirements for the MA desgree, serves two primary goals: (1) to allow the student to experience independent research and writing of a substantial project to assess their commitment to and interest in continuing as a researcher. (2) to demonstrate to others (e.g. employers, admissions committees, granting agencies) that the student is capable of world-class Linguistics research^[[Database of previous Linguistics MA theses](https://uknowledge.uky.edu/do/search/?q=configured_field_t_department%3Alinguistics&start=0&context=1733235&sort=score&facet=)].
 
 ## Applying to Doctoral Programs
 
@@ -259,7 +256,7 @@ Harassment and discrimination, including sexual or gender harassment and discrim
 - IRB
 -->
 
-# Advising
+# Doctoral and Masters Advising
 
 The Department of Linguistics is committed to facilitating close collaboration between faculty and students with shared areas of interest. At the outset of their program, students will be advised by the Director of Graduate Studies (DGS) about course registration, progress through the program, and other general concerns. Once a student has chosen a thesis topic (or area of concentration), they will ask a faculty member to chair their thesis committee. The DGS and thesis committee chair will then be the major points of contact for program and thesis advice and advising. The advisor/advisee relationship is a critical component of student success, and it is important to recognize that people have different relationship styles and that there is a diversity of models for what this professional relationship should be (see below, "Choosing an Advisor" and following).
 
@@ -278,7 +275,7 @@ Be aware that most faculty appointments, as well as administrative appointments 
 
 Despite this, faculty members, including the DGS, are usually able and willing to stay in contact electronically over the summer, even if it may sometimes take longer to hear back. It is always ok to send a follow-up email. If your advisor is going to be fully out of contact for an extended period—even over the summer--it is reasonable to expect that they let you know ahead of time.
 
-The requirements for your degree program, and procedures for satisfying those requirements, are outlined in two documents: this document and the Graduate School’s Graduate Catelog^[[Current Graduate Catalog](http://bulletin.uky.edu/index.php)].
+The requirements for your degree program, and procedures for satisfying those requirements, are outlined in two documents: this document and the Graduate School’s Graduate Catalog^[[Current Graduate Catalog](http://bulletin.uky.edu/index.php)].
 
 You should take time to read over both of these documents.
 
@@ -352,9 +349,9 @@ Students might consider asking:
  
 If students have concerns about the advising they are receiving they should arrange to speak confidentially with the Director of Graduate Studies or the Department Chair. The department faculty want to support graduate students and will take their concerns seriously. Students may also seek out the guidance of the [Academic Ombud Services](http://www.uky.edu/ombud/). Any student, after due consideration and consultation with the DGS, and with the agreement of the identified faculty, may change thesis committee chair or committee members at any point prior to their thesis defense.
 
-## Advising expectations during doctoral candidacy
+## Advising expectations
 
-### What the DGS can expect from the PhD student
+### What the DGS can expect from the student
 
 Graduate students in the coursework phase of their program should:
 
@@ -367,7 +364,7 @@ Graduate students in the coursework phase of their program should:
 - Reach out to the DGS as they approach the end of coursework, to discuss the transition to candidacy.
 - Be familiar with the Graduate School “Student Forms” page^[[gradschool.uky.edu/studentforms](https://gradschool.uky.edu/studentforms)].
 
-### What the PhD student can expect from their DGS
+### What the student can expect from their DGS
 
 The DGS, in their capacity as academic advisor to early-program graduate students, should:
 
@@ -376,7 +373,7 @@ The DGS, in their capacity as academic advisor to early-program graduate student
 - Be available to meet with graduate students during the school year to discuss coursework or other program requirements.
 - Reach out to students as they near the end of coursework, to ensure that the transition to candidacy goes smoothly.
 - Respond in a clear and timely way to requests for clarification about regulations or requirements. As a baseline, one week is a reasonable expectation for a reply to an email.
-- Will conduct ongoing review meetings with students and provide annual, written feedback and assessment of each student's progress toward the degree.
+- Conduct ongoing review meetings with students and provide annual, written feedback and assessment of each student's progress toward the degree.
 
 ### What the advisor can expect from the student
 
@@ -480,13 +477,21 @@ The order of the authors in a proposed publication is also an issue that needs t
 Whether you are interested in pursuing a non-academic career that draws on your linguistic expertise or want to think about postdocs, lecturer positions, and the tenure track, 
 
 - Linguistics Career Launch^[[https://www.linguisticscareerlaunch.com](https://www.linguisticscareerlaunch.com)] is a program from the LSA intended to help prepare linguists for careers beyond academia. The youtube videos on the site are a particularly good resource.
-- Will Styler maintains an excellent 'jobs' page with advice aimed at degree holders of all levels wondering interested in alt-ac and ac jobs. [https://wstyler.ucsd.edu/jobs/](https://wstyler.ucsd.edu/jobs/)
+- Will Styler maintains an excellent 'jobs' page with advice aimed at degree holders of all levels wondering interested in non-academic and academic jobs. [https://wstyler.ucsd.edu/jobs/](https://wstyler.ucsd.edu/jobs/)
 - The linguist list [https://linguistlist.org](https://linguistlist.org) is an old-school e-mail list^[for those who are not interested in more e-mail, there are also RSS feeds available: [https://linguistlist.org/rss/](https://linguistlist.org/rss/)] with job postings and much more.
 
 # The Linguistic Graduate Student Association (LGSA)
 
 The purpose of the Linguistic Graduate Student Association (LGSA) is to enhance the social, networking, outreach, and professional development experiences of graduate students in linguistics and the language sciences. This includes, but is not limited to, promoting linguistics related activities, facilitating mentoring opportunities, undertaking communications with linguistics faculty, increasing awareness of and advocating for linguistics related issues on campus at the University of Kentucky.
 
+Outside of sending a representative to the Graduate Student Congress, how the Linguistics Graduate Student Association realizes the aforementioned goals is variable and dependent on the wants and needs of the membership. However, some examples of things that the LGSA has done are:
+ 
+- Organized and participated in a graduate-student led linguistics conference in the spring semester, with conference invitations extended to Linguistics graduate students at Indiana University and The Ohio State University, graduate students in Linguistics, and graduate students in language-related fields at the University of Kentucky
+ 
+- Hosted a bi-weekly reading group within the department to give students a chance to discuss papers outside of the scope of their coursework or research and occasionally welcomed the authors of the papers as a guest in the virtual reading group
+ 
+- Arranged a virtual summer colloquium series which focused on giving early career scholars and other graduate students outside of the department to present their work to the department while keeping the department engaged over the summer
+ 
 # Program Checklists
 
 ## MA Checklist
