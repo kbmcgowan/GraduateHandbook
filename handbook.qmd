@@ -9,11 +9,13 @@ format:
       toc-location: right
       number-sections: true
       self-contained: true
+      output-file: "index.html"
       grid: 
         margin-width: 350px
     pdf:
       toc: true
       number-sections: true
+      output-file: "LinguisticsGraduateHandbook.pdf"
 execute: 
   echo: fenced
 reference-location: margin
