@@ -1,3 +1,6 @@
+project:
+  type: default
+
 format:
     html:
       theme: litera
@@ -13,4 +16,4 @@ format:
       number-sections: true
       output-file: "LinguisticsGraduateHandbook.pdf"
 execute: 
-  echo: fenced
+  freeze: auto
