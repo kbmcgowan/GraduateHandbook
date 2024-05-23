@@ -2,22 +2,7 @@
 title: "UK Linguistics Graduate Handbook"
 subtitle: "Revised: Summer 2024^[Find the most recent revision of this document on the [UK Linguistics Graduate Programs](https://linguistics.as.uky.edu/ling-grad-program) page]"
 date: "`r Sys.Date()`"
-format:
-    html:
-      theme: litera
-      toc: true
-      toc-location: right
-      number-sections: true
-      self-contained: true
-      output-file: "index.html"
-      grid: 
-        margin-width: 350px
-    pdf:
-      toc: true
-      number-sections: true
-      output-file: "LinguisticsGraduateHandbook.pdf"
-execute: 
-  echo: fenced
+
 reference-location: margin
 citation-location: margin
 bibliography: handbook.bib
