@@ -1,14 +1,14 @@
 ---
 title: "UK Linguistics Graduate Handbook"
-subtitle: "Spring 2024^[Find the most recent revision of this document on the [UK Linguistics Graduate Programs](https://linguistics.as.uky.edu/ling-grad-program) page]"
+subtitle: "Revised: Summer 2024^[Find the most recent revision of this document on the [UK Linguistics Graduate Programs](https://linguistics.as.uky.edu/ling-grad-program) page]"
 date: "`r Sys.Date()`"
 format:
     html:
-      theme: cerulean
+      theme: litera
       toc: true
       toc-location: right
       number-sections: true
-      self-contained: true
+      self-contained: false
       grid: 
         margin-width: 350px
     pdf:
@@ -28,14 +28,14 @@ tbl-cap-location: margin
 
 # General Information
 
-The Department of Linguistics offers graduate programs leading to the degrees of Master of Arts (MA) and Doctor of Philosophy (PhD). Financial support for graduate students is available in the form of Teaching Assistantships, Journal Fellowships, and Research Assistantships; these are awarded on a competitive basis. Full details of your financial support can be found in the offer letter you received when you were admitted to the program. This handbook contains policies regarding graduate study in the Department of Linguistics^[When in doubt, consult with the DGS]. Additional recommendations and guidance for students can be found on the Linguistics graduate program website: [https://linguistics.as.uky.edu/ling-grad-program](https://linguistics.as.uky.edu/ling-grad-program) and in the University-wide Graduate Catalog^[[University of Kentucky Graduate Catalog]()] (formerly the "Graduate Bulletin").
+The Department of Linguistics offers graduate programs leading to the degrees of Master of Arts (MA) and Doctor of Philosophy (PhD). Financial support for graduate students is available in the form of Teaching Assistantships, Journal Fellowships, and Research Assistantships; these are awarded on a competitive basis. Full details of your financial support can be found in the offer letter you received when you were admitted to the program. This handbook contains policies regarding graduate study in the Department of Linguistics^[When in doubt, consult with the DGS]. Additional recommendations and guidance for students can be found on the Linguistics graduate program website: [https://linguistics.as.uky.edu/ling-grad-program](https://linguistics.as.uky.edu/ling-grad-program) and in the University-wide Graduate Catalog^[[University of Kentucky Graduate Catalog](http://catalogs.uky.edu/index.php)] (formerly the "Graduate Bulletin").
 
 ## UK Policies for Graduate Students and Programs
 
 Students, faculty, and department administrators can obtain information regarding general policies for graduate students and programs from the following sources:
 
 - UK Graduate School Website: [https://gradschool.uky.edu/](https://gradschool.uky.edu/)
-- UK Graduate School Catalog: [http://bulletin.uky.edu/](http://bulletin.uky.edu/)
+- UK Graduate School Catalog: [http://catalogs.uky.edu/](http://catalogs.uky.edu/)
 - UK Graduate School DGS Policies and Procedures Manual: [https://gradschool.uky.edu/directors-graduate-studies](https://gradschool.uky.edu/directors-graduate-studies)
 
 ## Rights, Responsibilites, and Resources
@@ -68,9 +68,18 @@ scholarships and may not sit for doctoral qualifying or final examinations, or m
 
 Further information regarding scholastic probation is available in the UK Graduate Catalog.
 
-### Summer Support
+### Summer Teaching
 
-A limited number of teaching positions are available through the Linguistics department each year. Students interested in applying to teach a summer course should apply via the Summer Teaching request form which will be circulated by the DGS in late March. Applications will be assessed by the Admissions and Awards committee and will be evaluated in terms of teaching qualifications (students must be eligible to teach a course as instructor of record), previous teaching performance, and seniority in the program.
+A limited number of teaching positions are available through the Linguistics department each year to teach online versions of either Lin 211 (Introduction to Linguistics) or Lin 200 (How to Create your own Language.) These courses take place virtually, mainly via-Canvas and video resources, and run either during the Summer Session first half (mid-May - early-July) or second half (mid-June - early-August, dates vary annually). The student will be listed as instructor of record.
+
+The A&A committee will assign teaching duties roughly one month before the end of the Spring semester using the following ranked, violable constraints. The guiding principle throughout is to treat this as a professional enrichment opportunity and to prefer distributing that opportunity to as many students as possible.
+
+- **\*InstructorOfRecord**: preference given to students who have *not* yet had the opportunity to be instructor of record in a course.  We know this may feel backwards, but part of the motivation for offering summer courses like these is so that graduate students can have the experience of teaching as the primary instructor of a course and list that experience on their CV.
+- **LINexperience**: people who have not had the opportunity to teach an LIN course will be given preference over people who have.  Again, this is about ensuring as many students as possible graduate with LIN teaching experience as a primary instructor.
+- **TeachingAssessments**: Any teaching assessments/feedback from TA coordinator/previous instructors of record.
+- **Seniority**: years remaining in program.  Preference will be given to students who will have fewer future chances to be instructor of record in an LIN course.
+- **GoodStanding**: preference given to students who are in good standing and making progress toward their degree.
+- **Chance**:  In the event that two or more candidates emerge from this analysis as equally optimal potential instructors, random weights will be assigned to the candidates using a pseudo-random number generator and students will be informed of their status as a potential instructor and their position in that queue.
 
 <!--
 ### Priority for Summer Teaching
@@ -551,7 +560,3 @@ Outside of sending a representative to the Graduate Student Congress, how the Li
   - [ ] Thesis defense (Final Doctoral Examination) must be scheduled with advisor, committee, and identified external Member (Graduate School representative)
   - [ ] The Request for Final Doctoral Examination form must be filed at least two weeks prior to the Final Exam
   - [ ] Within 60 days of oral defense, final copy of the dissertation must be filed electronically with the Graduate School along with the [ETD Approval Form](https://gradschool.uky.edu/electronic-thesis-defense)^[[gradschool.uky.edu/electronic-thesis-defense](https://gradschool.uky.edu/electronic-thesis-defense)] which needs to be signed by the student, their advisor, and the DGS.
-
-# Note on formatting
-
-This document's formatting is inspired by the Tufte handout style and the use of Tufte's styles in RMarkdown documents [@xie2018]. Tufte's style is known for its extensive use of sidenotes, tight integration of graphics with text, and well-set typography.
