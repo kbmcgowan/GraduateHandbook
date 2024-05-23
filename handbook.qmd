@@ -9,10 +9,6 @@ bibliography: handbook.bib
 tbl-cap-location: margin
 ---
 
-```{r echo=FALSE}
-
-```
-
 # General Information
 
 The Department of Linguistics offers graduate programs leading to the degrees of Master of Arts (MA) and Doctor of Philosophy (PhD). Financial support for graduate students is available in the form of Teaching Assistantships, Journal Fellowships, and Research Assistantships; these are awarded on a competitive basis. Full details of your financial support can be found in the offer letter you received when you were admitted to the program. This handbook contains policies regarding graduate study in the Department of Linguistics^[When in doubt, consult with the DGS]. Additional recommendations and guidance for students can be found on the Linguistics graduate program website: [https://linguistics.as.uky.edu/ling-grad-program](https://linguistics.as.uky.edu/ling-grad-program) and in the University-wide Graduate Catalog^[[University of Kentucky Graduate Catalog](http://catalogs.uky.edu/index.php)] (formerly the "Graduate Bulletin").
