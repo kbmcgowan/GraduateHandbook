@@ -1,7 +1,7 @@
 ---
 title: "UK Linguistics Graduate Handbook"
 subtitle: "Revised: Fall 2024^[Find the most recent revision of this document on the [UK Linguistics Graduate Programs](https://linguistics.as.uky.edu/ling-grad-program) page]"
-date: "8 August 2024"
+date: "21 November 2024"
 
 reference-location: margin
 citation-location: margin
@@ -526,7 +526,7 @@ Outside of sending a representative to the Graduate Student Congress, how the Li
 - [ ] Expertise requirement (3 courses, 9 hours at the 600 level or above in area of concentration)
 - [ ] Other electives (2 courses, 6 hours at the 600 level or above for breadth)
 - [ ] Advisor engaged by end of 2^nd^ semester and registered with the DGS
-- [ ] Committee formed (3^rd^ semester) and The Formation of Doctoral Advisory Committee Form is submitted to the Graduate School^[[gradschool.uky.edu/studentforms](https://gradschool.uky.edu/studentforms)]
+- [ ] Committee formed (by 5^th^ semester) and The Formation of Doctoral Advisory Committee Form is submitted to the Graduate School^[[gradschool.uky.edu/studentforms](https://gradschool.uky.edu/studentforms)]
 - [ ] Dissertation Proposal scheduled with committee and room reserved with at least two weeks prior notice
 - [ ] Dissertation Proposal defended
 - [ ] Complete qualifying exam (Fall of 3^rd^ year)
