@@ -1,7 +1,7 @@
 ---
 title: "UK Linguistics Graduate Handbook"
-subtitle: "Revised: Fall 2024^[Find the most recent revision of this document on the [UK Linguistics Graduate Programs](https://linguistics.as.uky.edu/ling-grad-program) page]"
-date: "21 November 2024"
+subtitle: "Revised: Fall 2025^[Find the most recent revision of this document on the [UK Linguistics Graduate Programs](https://linguistics.as.uky.edu/ling-grad-program) page]"
+date: "6 October 2025"
 
 reference-location: margin
 citation-location: margin
@@ -37,6 +37,7 @@ Student Rights and Responsibilities are found in the Administrative Regulation (
 ## Academic Load
 
 A graduate student enrolled in 9 credit hours or more in a semester is considered to be full time (see the Graduate Catalog for more information). 
+
 Except under extremely unique circumstances, a student who is a Teaching Assistant (TA) will take 9-10 credit hours per semester.
 
 ## Independent Studies
@@ -162,7 +163,7 @@ Selecting an appropriate advisor is an important decision for any doctoral stude
 The dissertation committee has a core of four members. This core must include a minimum of two faculty members from the graduate program (with one being the major professor as chair or co-chair), and one representative from outside the graduate program. All members of the core must be members of the Graduate Faculty of the University of Kentucky and three (including the major professor) must possess full Graduate Faculty status.
 
 Faculty members from other institutions may serve on dissertation committees if they meet the requirements for appointment as associate members of the UK Graduate Faculty.
-When faculty members retire or leave the University, they may continue their service on previously established doctoral Advisory Committees but cannot be appointed to new committees. Requests to continue service should be made by the DGS to the Graduate School Dean, and include the names of all students affected.
+When faculty members retire or leave the University, they may continue their service on previously established doctoral Advisory Committees but cannot be appointed to new committees. Requests to continue service should be made by the DGS to the A&S Associate Dean for Graduate Education, and include the names of all students affected.
 
 ## Coursework Requirements
 
@@ -195,7 +196,7 @@ Although not expressly forbidden, the graduate school does not make explicit all
 
 ## Advancing to Candidacy: The Qualifying Paper (QP)
 
-### Timeline
+### Timeline {#sec-timeline}
 A student advances to candidacy when the following conditions have been met:
 
 - Successful completion of at least 36 graduate credit hours with a 3.00 or higher GPA
@@ -212,13 +213,7 @@ The QP, which represents a significant, independent research project, is written
 ### Assessment and Defense
 The QP is assessed by two faculty readers versed in the topic area of the paper, usually one serving as the primary advisor, and is normally presented at a public defense.
 
-A majority vote is required to pass this examination. If the committee vote is a tie, the candidate fails. If the result is failure, the advisory committee determines the conditions to be met before another examination may
-be given. The minimum time between examinations is four months. A second examination must be
-taken within one year after taking the first examination; a third examination is not permitted. If a
-student fails the qualifying examination on the first attempt, the Advisory Committee can not be
-changed prior to re-examination without approval of the Dean of the Graduate School. Students are
-admitted to candidacy for the doctoral degree after they have successfully completed the Qualifying
-Examination; the date is noted on the student's transcript.
+A unanimous vote is required to pass this examination. If the committee vote is a tie, the candidate fails that attempt. If the result is failure, the advisory committee determines the conditions to be met before another examination may be given. The minimum time between examinations is four months. A second examination must be taken within one year after taking the first examination; a third examination is not permitted. If a student fails the qualifying examination on the first attempt, the Advisory Committee can not be changed prior to re-examination without approval of the Associate Dean for Graduate Education of the College of Arts & Sciences. Students are admitted to candidacy for the doctoral degree after they have successfully completed the Qualifying Examination and coursework (see @sec-timeline); the date is noted on the student's transcript.
 
 ## Dissertation Prospectus
 
@@ -286,7 +281,7 @@ The Graduate Catalog describes Graduate School-wide requirements, including thos
 ## Advising expectations during coursework
 ## Introduction: Your Director of Graduate Studies (DGS)
 
-The Director of Graduate Studies (DGS) is the local representative of the Linguistics department graduate degree programs to the University of Kentucky graduate school. The DGS is responsible for the recruitment, admission, advising, and examining of students in the program. The DGS is a member of the Linguistics faculty who has been appointed by the Dean of the Graduate School after consultation with Linguistics graduate faculty. The standard term for a DGS is typically three years.
+The Director of Graduate Studies (DGS) is the local representative of the Linguistics department graduate degree programs to the University of Kentucky graduate school. The DGS is responsible for the recruitment, admission, advising, and examining of students in the program. The DGS is a member of the Linguistics faculty who has been appointed by the Associate Dean for Graduate Education for the College of Arts & Sciences after consultation with Linguistics graduate faculty. The standard term for a DGS is typically three years.
 
 The DGS is responsible for the administration of the graduate program, including maintenance of records, administration of graduate program funds, admission of graduate students, fellowships, program requirement changes and new programs, advising and registration, appointment of advisory and examination committees, and other degree requirements related to the graduate program. Additionally, the DGS serves as the focal point for dissemination of information from the Graduate School.
 
@@ -445,7 +440,7 @@ The order in which these steps are presented is, in most cases, the best order t
 1. Request a meeting with other members of your dissertation committee. Communicate the problem to them, and ask for information and advice on an informal basis.
 2. If that doesn’t help (enough), or if you are uncomfortable going to the other members of your dissertation committee, request a meeting with the DGS. They can give advice and clarify relevant regulations from the Handbook or the Graduate Catalog The DGS can also act as your advocate—reaching out on your behalf to other faculty members, the Chair, the Dean, or any other relevant parties.
 3. If that doesn’t help (enough), or if you are uncomfortable going to the DGS, request a meeting with the Department Chair. Describe the issue to the Chair, and tell them what other steps have been attempted so far. The Chair is likely to be able to help, and may have institutional information or authority that goes beyond what the DGS can offer.
-4. If that doesn’t help (enough), or if you are uncomfortable going to the Chair, request a meeting with the College of A&S Associate Dean of Graduate Studies. Currently, the Dean of Graduate Studies is Professor Mark Meier. You can check the “Dean's Office” page at the College of A&S website^[[https://www.as.uky.edu/deans-office](https://www.as.uky.edu/deans-office)] for information on how to schedule an appointment. Scroll down until you find the Associate Dean of Graduate Studies.
+4. If that doesn’t help (enough), or if you are uncomfortable going to the Chair, request a meeting with the College of A&S Associate Dean of Graduate Studies. Currently, the acting Dean of Graduate Studies is Professor Allison Burkette You can check the Dean's Office page at the College of A&S website^[[https://www.as.uky.edu/deans-office](https://www.as.uky.edu/deans-office)] for information on how to schedule an appointment. Scroll down until you find the Associate Dean of Graduate Studies.
 5. If none of these other steps help (enough), or if your issue precludes going through the usual procedures, contact UK Academic Ombud Services^[[https://ombud.uky.edu](https://ombud.uky.edu)]. As stated on their website, “At the University of Kentucky, Academic Ombud Services is responsible for resolving academic related problems and conflicts between students and faculty for which established procedures have not yielded a satisfactory solution or for which no established procedure exists.”
 
 # How do I find a research topic?
