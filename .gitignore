@@ -7,3 +7,5 @@ handbook.pdf
 handbook.html
 
 /.quarto/
+
+**/*.quarto_ipynb
